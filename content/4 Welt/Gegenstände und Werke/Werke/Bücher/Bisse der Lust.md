@@ -1,0 +1,1 @@
+eine Geschichte, in welcher eine junge Prinzessin von einem Vampir gebissen wird und anschließend ihren Geliebten überzeugen will, zu ihr ins Unleben zu kommen. Doch niemand rechnet mit dem Stalljungen, der in die Prinzessin verliebt ist und alles tun würde, um an ihrer Seite zu sein.

@@ -1,0 +1,54 @@
+---
+publish: true
+permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kupfertopf.md
+aliases: Fraktionen,
+created: 2026-02-11T08:54:34.223Z
+modified: 2026-02-12T18:14:06.000Z
+published: 2026-02-12T18:14:06.000Z
+notetype: Fraktion
+tags:
+factiontype:
+description:
+faction_location: Goldreich
+faction_handwerk: Kulinarik
+banner: zzz_Assets/Images/Banners/factions_banner.jpg
+banner_y: 0.45
+---
+
+> [!infobox]+
+>
+> # Kupfertopf
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+>
+> |    |
+> \---|---|
+> Gründung: |  |
+> Leitspruch: |  |
+>
+> ###### Organisation
+>
+> |   |
+> \---|---|
+> Organisationsform | Beispiel |
+> Leitung | Beispiel |
+> Zentrum | Beispiel |
+>
+> ###### Historische Ereignisse
+>
+> Beispiel 1
+> Beispiel 2
+
+# Kupfertopf
+
+kurze Zusammenfassung
+
+## Besonderheiten
+
+## Geschichte
+
+### Gründung
+
+### Entwicklung
+
+## Führungshistorie

@@ -1,0 +1,1 @@
+Das Tibenbräu ist das am weitesten verbreitete Bier des Kontinents. Besonders in den Herzlanden stellt es den Standard unter Hopfenerzeugnissen dar. Hergestellt wird es in der Stadt Tibenbruck inmitten des Kontinents. Von dort wird es, den Tiben auf und ab und entlang der Handelsstraßen, welche durch die Stadt führen, an alle Ecken und Enden Parleas transportiert.

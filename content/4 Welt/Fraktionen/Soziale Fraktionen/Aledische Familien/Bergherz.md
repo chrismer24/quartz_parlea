@@ -1,0 +1,54 @@
+---
+publish: true
+permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Aledische Familien/Bergherz.md
+aliases: Fraktionen,
+created: 2025-11-01T23:03:20.413Z
+modified: 2026-01-19T18:29:12.317Z
+published: 2026-01-19T18:29:12.317Z
+notetype: Fraktion
+tags:
+factiontype:
+description:
+faction_location:
+faction_handwerk:
+banner: zzz_Assets/Images/Banners/factions_banner.jpg
+banner_y: 0.45
+---
+
+> [!infobox]+
+>
+> # Bergherz
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+>
+> |    |
+> \---|---|
+> Gründung: |  |
+> Leitspruch: |  |
+>
+> ###### Organisation
+>
+> |   |
+> \---|---|
+> Organisationsform | Beispiel |
+> Leitung | Beispiel |
+> Zentrum | Beispiel |
+>
+> ###### Historische Ereignisse
+>
+> Beispiel 1
+> Beispiel 2
+
+# Bergherz
+
+kurze Zusammenfassung
+
+## Besonderheiten
+
+## Geschichte
+
+### Gründung
+
+### Entwicklung
+
+## Führungshistorie

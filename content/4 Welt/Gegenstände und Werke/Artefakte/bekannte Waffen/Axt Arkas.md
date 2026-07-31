@@ -1,0 +1,3 @@
+Der Legende nach soll [[Arka]] einst mit einer mächtigen Axt die ewige Dunkelheit gespalten haben soll, um die ersten Lichtstrahlen scheinen zu lassen.
+Die Axt wird von vielen Verehrenden gesucht, da sie am Ende aller Tage gegen die Dunkelheit geführt werden soll.
+Es gibt allerdings auch jene, welche die Axt nutzen wollen, um die Realität bzw. bestimmte Aspekte davon zu zerstören. Diese Naturgesetze wurden einst von [[Arka]] in der [[alte Sprache|alten Sprache]] niedergeschrieben und beschreiben die Beschaffenheit der Realität und des [[4 Welt/Geographische Entitäten/Welten/Chaosnexus|Chaosnexus]]. Nur die Waffe Arkas kann ihr Wort zerstören.

@@ -1,0 +1,1 @@
+[[Bögen]] verwenden [[Pfeil|Pfeile]] als Projektile und können innerhalb einer Kampfrunde nachgeladen werden. Sie sind immer [[zweihändig]] zu führen. Die Pfeile müssen sich im [[Inventarkapazität#Charakterinventar|Charakterinventar]] befinden.

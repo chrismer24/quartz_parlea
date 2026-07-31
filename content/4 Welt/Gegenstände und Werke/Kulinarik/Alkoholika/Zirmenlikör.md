@@ -1,0 +1,1 @@
+Als absolute Delikatesse Gilt der Zirmenlikör, hergestellt aus der ungemeinen Zirme in den Eisenbergen. Mitglieder aller Rassen genießen den süßlichen, nach Wald schmeckenden Likör in den edelsten Gaststätten des Kaiserreichs. Besonders unter Adeligen gilt der Zirmenlikör als Statussymbol.

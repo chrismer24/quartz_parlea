@@ -1,0 +1,55 @@
+---
+publish: true
+permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Häuser der Herzlande/Wankelmut von Ritterschand.md
+aliases: Fraktionen,
+created: 2025-11-01T23:09:22.657Z
+modified: 2026-05-03T12:41:19.000Z
+published: 2026-05-03T12:41:19.000Z
+notetype: Fraktion
+tags:
+factiontype:
+description:
+faction_location:
+faction_handwerk:
+banner: zzz_Assets/Images/Banners/factions_banner.jpg
+banner_y: 0.45
+---
+
+> [!infobox]+
+>
+> # Wankelmut von Ritterschand
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+>
+> |    |
+> \---|---|
+> Gründung: |  |
+> Leitspruch: |  |
+>
+> ###### Organisation
+>
+> |   |
+> \---|---|
+> Organisationsform | Beispiel |
+> Klassifikation | [[Häuser der Herzlande#Rittershaus|Rittershaus]] |
+> Leitung | Beispiel |
+> Zentrum |  |
+>
+> ###### Historische Ereignisse
+>
+> Beispiel 1
+> Beispiel 2
+
+# Wankelmut von Ritterschand
+
+kurze Zusammenfassung
+
+## Besonderheiten
+
+## Geschichte
+
+### Gründung
+
+### Entwicklung
+
+## Führungshistorie

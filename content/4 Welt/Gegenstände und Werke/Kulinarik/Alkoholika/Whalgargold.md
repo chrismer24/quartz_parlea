@@ -1,0 +1,1 @@
+Aus dem Whalgargebirge im Südwesten Parleas kommt das Whalgargold, ein süßer Honigwein, welcher bei Zwergen besonders beliebt ist, jedoch auch bei den übrigen Völkern Parleas durchaus Anklang findet. Er wird in allen Orten des Whalgargebirges hergestellt, wobei der Großteil aus Kar Fren stammt.

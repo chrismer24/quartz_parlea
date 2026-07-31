@@ -1,0 +1,1 @@
+Das im kleinen Ort Obermoos bei Flusswacht hergestellte Bier gilt in der Region des Königreichs Flusswacht als eine lokale Spezialität. Poeten schreiben dem Bier gar zu, den geradezu märchenhaften Ausblick vom Dorfplatz über die Tibenebene für die Zunge erfahrbar zu machen. Weniger ausdrucksstarke Trinker schreiben dem Bier eine eher milde Note zu.

@@ -1,0 +1,1 @@
+Orelische Perle ist der Name eines Schaumweins, welcher aus Orelia, der Hauptstadt Aurias, kommt. Es ist eines der wenigen Produkte, welches es regelmäßig von den mysteriösen Inseln auf den Kontinent schafft. Der Charakter der Inseln spiegelt sich laut den Weinconnaisseuren auch in dem Sekt wider, den dessen Geschmack wird schlichtweg mit „mystisch“ betitelt.

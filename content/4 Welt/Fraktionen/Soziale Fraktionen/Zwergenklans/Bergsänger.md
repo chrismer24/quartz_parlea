@@ -1,0 +1,54 @@
+---
+publish: true
+permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Bergsänger.md
+aliases: Fraktionen,
+created: 2025-08-19T15:09:07.219Z
+modified: 2026-02-11T08:39:14.987Z
+published: 2026-02-11T08:39:14.987Z
+notetype: Fraktion
+tags:
+factiontype: Zwergenklan
+description:
+faction_location: Goldreich
+faction_handwerk: Musizieren
+banner: zzz_Assets/Images/Banners/factions_banner.jpg
+banner_y: 0.45
+---
+
+> [!infobox]+
+>
+> # Bergsänger
+>
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+>
+> |    |
+> \---|---|
+> Gründung: |  |
+> Leitspruch: |  |
+>
+> ###### Organisation
+>
+> |   |
+> \---|---|
+> Organisationsform | Beispiel |
+> Leitung | Beispiel |
+> Zentrum | Beispiel |
+>
+> ###### Historische Ereignisse
+>
+> Beispiel 1
+> Beispiel 2
+
+# Bergsänger
+
+kurze Zusammenfassung
+
+## Besonderheiten
+
+## Geschichte
+
+### Gründung
+
+### Entwicklung
+
+## Führungshistorie

@@ -1,0 +1,1 @@
+Hergestellt aus der gemeinen Himpe, welche ausschließlich in Nordfell zu finden ist, erlangt der Himpenschnaps langsam aber stetig auch außerhalb der nördlichen Provinz Popularität. Besonders in den kalten Wintermonaten wird der wärmende und belebende Alkohol sehr geschätzt.

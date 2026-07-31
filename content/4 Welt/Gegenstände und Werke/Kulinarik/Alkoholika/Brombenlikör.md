@@ -1,0 +1,1 @@
+Der Likör der gemeinen Brombe wird in Aleda, dem Ursprungsgebiet der Beere, produziert. Dort ist er aufgrund seiner fruchtig-nussigen Note sehr beliebt, auch wenn Kenner ihn oft als Pöbelgetränk abtun.

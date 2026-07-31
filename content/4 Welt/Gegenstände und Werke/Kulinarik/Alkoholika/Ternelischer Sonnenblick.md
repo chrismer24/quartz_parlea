@@ -1,0 +1,1 @@
+Der Ternelische Sonnenblick wird in Goldburg, ganz im Süden Aledas produziert. Die salzige Luft des ternelischen Meeres tritt auch im Weißwein aus der Küstenstadt zu Tage, da dieser eine sehr ungewöhnliche, leicht salzige Note aufweist.

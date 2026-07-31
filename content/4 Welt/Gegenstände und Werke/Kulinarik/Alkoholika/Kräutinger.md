@@ -1,0 +1,1 @@
+Der Kräutinger wird im Colvia-Hochland hergestellt. Es gibt mittlerweile eine große Anzahl an Variationen, sodass fast jede Stadt im Hochland ihr eigenes Rezept für den Kräuterbrand hat. Diese Rezepte werden jedoch stets geheim gehalten. Nicht unbedingt zum Leid vieler, da der sehr scharfe und intensiv schmeckende Schnaps nur bei wenigen außerhalb des Hochlandes Geschmack findet.
