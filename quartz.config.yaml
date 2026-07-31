@@ -130,6 +130,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+  - source: "@quartz-community/404"
+    enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
