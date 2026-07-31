@@ -269,7 +269,8 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content: 
+      - source: internal:NotFoundPage
     folder:
       exclude:
         - reader-mode
