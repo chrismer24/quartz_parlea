@@ -130,7 +130,7 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: "@quartz-community/404"
+  - source: "@quartz-community/not-found-page"
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
