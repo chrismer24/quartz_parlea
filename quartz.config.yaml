@@ -263,7 +263,8 @@ layout:
       priority: 35
       direction: row
       gap: 0.5rem
-  byPageType:"404":
+  byPageType:
+    "404":
       positions:
         beforeBody: []
         left: []
