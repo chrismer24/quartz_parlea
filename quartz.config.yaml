@@ -41,7 +41,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: "Plugin.NotFoundPage"
+  - source: "./quartz/plugins/pageTypes/404.ts"
     enabled: true
   - source: "@quartz-community/created-modified-date"
     enabled: true
