@@ -41,6 +41,8 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "Plugin.NotFoundPage"
+    enabled: true
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -129,8 +131,6 @@ plugins:
   - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
-    enabled: true
-  - source: "@quartz-community/not-found-page"
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
