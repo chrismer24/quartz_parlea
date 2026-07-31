@@ -263,7 +263,13 @@ layout:
       priority: 35
       direction: row
       gap: 0.5rem
-  byPageType:
+  byPageType:"404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+      content:
+        - source: "@quartz-community/content-page"
     content: {}
     folder:
       exclude:
