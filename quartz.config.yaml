@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Parlea - Eine fantastische Welt
+  pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: de-AT
-  baseUrl: chrismer24.github.io
+  locale: en-US
+  baseUrl: chrismer24.github.io/quartz_parlea
   ignorePatterns:
     - private
     - templates
@@ -264,13 +264,11 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    404:
+    "404":
       positions:
         beforeBody: []
         left: []
         right: []
-      content:
-        - source: internal:NotFoundPage
     content: {}
     folder:
       exclude:
