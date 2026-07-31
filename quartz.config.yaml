@@ -41,7 +41,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: "./quartz/plugins/pageTypes/404.ts"
+  - source: "@quartz-community/404-page"
     enabled: true
   - source: "@quartz-community/created-modified-date"
     enabled: true
