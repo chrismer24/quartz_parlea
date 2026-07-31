@@ -130,8 +130,6 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: internal:NotFoundPage
-    enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
@@ -266,13 +264,7 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
-      content: 
-        - source: internal:NotFoundPage
+    content: {}
     folder:
       exclude:
         - reader-mode
