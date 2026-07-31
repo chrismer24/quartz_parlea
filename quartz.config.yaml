@@ -265,20 +265,16 @@ layout:
       gap: 0.5rem
   byPageType:
     "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
-    content: {}
+      exclude: []
+    content:
+      exclude: []
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}
+    canvas:
+      exclude: []
+    bases:
+      exclude: []
