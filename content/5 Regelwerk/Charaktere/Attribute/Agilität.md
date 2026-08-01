@@ -27,8 +27,8 @@ Agilität fungiert als Attributsbonus für folgende Fertigkeiten:
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Exotikwaffen.md|Exotikwaffen]]: -
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Fernkampf.md|Fernkampf]]: -
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Körperkampf.md|Körperkampf]]: -
-- [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Stichwaffen.md|Stichwaffen]]: -
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Körperkampfsport.md|Körperkampfsport]]: -
+- [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Stichwaffen.md|Stichwaffen]]: -
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Verteidigen.md|Verteidigen]]: -
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Wuchtwaffen.md|Wuchtwaffen]]: -
 - [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Waffenfertigkeit.md|Waffenfertigkeit]]: bestimmt, wie gut Charaktere mit Waffen umgehen können, getrennt nach [[Waffenfertigkeit#Waffengruppe|Waffengruppe]]
@@ -56,8 +56,8 @@ Agilität fungiert als Attributsbonus für folgende Fertigkeiten:
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Goldschmiedekunst.md|Goldschmiedekunst]]: Produktion von [[Schmuck]] aus Edelmetallen und Edelsteinen
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Kleinholz.md|Kleinholz]]: feine Holzverarbeitung, inkludiert Schnitzen, Bogenbau, Pfeilmachen, Instrumentenbau, Spielzeugmachen, Drechseln
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Kulinarik.md|Kulinarik]]: Zubereitung und Verkostung von Lebensmitteln, inkludiert Kochen, Backen, Metzgern und Sommeliertum
-- [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Landwirtschaft.md|Landwirtschaft]]: Anbauen von Pflanzen zum Zwecke der Lebensmittelgewinnung, umfasst Obst- und Gemüsebauernschaft sowie Farmertumg und Getreidebauernschaft
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Körperkunst.md|Körperkunst]]: Anfertigung und Anbringung von Körperschmuck und Haarpflege, Ringstechen, Tintstechen, Frieseurwesen, Barbiertum und Federfärbung
+- [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Landwirtschaft.md|Landwirtschaft]]: Anbauen von Pflanzen zum Zwecke der Lebensmittelgewinnung, umfasst Obst- und Gemüsebauernschaft sowie Farmertumg und Getreidebauernschaft
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Malerei.md|Malerei]]: Malerei in Form von Gebäudemalerei und Gemäldemalerei
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Musizieren.md|Musizieren]]: Spielen von Instrumenten und Gesang
 - [[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Prostitution.md|Prostitution]]: Vermitteln des eigenen Körpers zur Befriedigung sexueller Bedürfnisser Anderer

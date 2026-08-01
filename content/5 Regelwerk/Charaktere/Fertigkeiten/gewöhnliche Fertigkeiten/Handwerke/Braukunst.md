@@ -27,7 +27,7 @@ Folgende Gegenstände können mit diesem Handwerk hergestellt werden:
 Folgende Zwergenklans verrichten dieses Handwerk:
 
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Biermeister.md|Biermeister]]: -
+- [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Fruchtreifer.md|Fruchtreifer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Honigschlürfer.md|Honigschlürfer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Hopfenmeister.md|Hopfenmeister]]: -
-- [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Fruchtreifer.md|Fruchtreifer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Malzkenner.md|Malzkenner]]: -

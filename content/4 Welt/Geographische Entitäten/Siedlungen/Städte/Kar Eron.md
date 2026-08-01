@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Städte/Kar Eron.md
 aliases: Siedlungen,
 created: 2025-08-18T21:19:02.229Z
-modified: 2026-07-25T09:14:38.343Z
-published: 2026-07-25T09:14:38.343Z
+modified: 2026-08-01T10:10:00.604Z
+published: 2026-08-01T10:10:00.604Z
 notetype: Siedlung
 tags:
 settlementtype: Stadt
@@ -16,6 +16,8 @@ description:
 banner: zzz_Assets/Images/Banners/settlement_banner.jpg
 banner_y: 0.3
 ---
+
+<img src="zzz_Assets/Images/Banners/settlement_banner.jpg" class="page-banner" alt="Page Banner" />
 
 > [!infobox]+
 >

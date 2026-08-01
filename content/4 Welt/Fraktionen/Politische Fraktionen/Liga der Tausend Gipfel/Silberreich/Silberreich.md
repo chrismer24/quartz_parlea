@@ -55,8 +55,8 @@ kurze Zusammenfassung
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Holzformer.md|Holzformer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Hopfenmeister.md|Hopfenmeister]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kersalehr.md|Kersalehr]]: Priester
-- [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kornbrecher.md|Kornbrecher]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kupferformer.md|Kupferformer]]: -
+- [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kornbrecher.md|Kornbrecher]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Malzkenner.md|Malzkenner]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Mutterblicker.md|Mutterblicker]]: Astronomen, Forschende
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Schachtgräber.md|Schachtgräber]]: -

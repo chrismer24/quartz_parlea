@@ -30,9 +30,9 @@ Beim [[Level#Levelaufstieg|Levelaufstieg]] wird W8 geworfen. Bei 4-8 erhält der
 
 ## allgemeine Eigenschaften
 
-- [[5 Regelwerk/Charaktere/Eigenschaften/aalglatt.md|aalglatt]]: Angriffe gegen den Charakter werden nicht vom [[Eskalationswürfel]] modifiziert
 - [[5 Regelwerk/Charaktere/Eigenschaften/Abzocker.md|Abzocker]]: +1 auf Feilschen wenn man zu dem doppelten Wert oder mehr verkauft
 - [[5 Regelwerk/Charaktere/Eigenschaften/Adlerauge.md|Adlerauge]]: +1 auf [[Wahrnehmung]] mit Sehen auf Distanz
+- [[5 Regelwerk/Charaktere/Eigenschaften/aalglatt.md|aalglatt]]: Angriffe gegen den Charakter werden nicht vom [[Eskalationswürfel]] modifiziert
 - [[5 Regelwerk/Charaktere/Eigenschaften/alter Fels.md|alter Fels]]: alte Zwerge beginnen bereits zu versteinern, +1 [[Trefferschwelle]] aber -3 [[Bewegung]]
 - [[5 Regelwerk/Charaktere/Eigenschaften/Apexpredator.md|Apexpredator]]: +2 auf Schaden gegen Gegner eines höheren [[Kreaturenstand|Kreaturenstands]]
 - [[5 Regelwerk/Charaktere/Eigenschaften/Archäolinguistik.md|Archäolinguistik]]: ermöglicht das Erlernen einer toten Sprache
@@ -66,27 +66,27 @@ Beim [[Level#Levelaufstieg|Levelaufstieg]] wird W8 geworfen. Bei 4-8 erhält der
 - [[5 Regelwerk/Charaktere/Eigenschaften/kränklich.md|kränklich]]: -3 auf Rettungswürfe auf Konstitution
 - [[5 Regelwerk/Charaktere/Eigenschaften/kurzsichtig.md|kurzsichtig]]: -1 auf [[Wahrnehmung]] auf Entfernung, kann mit Brille negiert werden
 - [[5 Regelwerk/Charaktere/Eigenschaften/Langschläfer.md|Langschläfer]]: Rasten dauern 2 Stunden länger
-- [[5 Regelwerk/Charaktere/Eigenschaften/leichtfüßig.md|leichtfüßig]]: reduziert malus von Rüstungen beim schleichen um 1
 - [[5 Regelwerk/Charaktere/Eigenschaften/Leseratte.md|Leseratte]]: +1 auf Manöver, in der Information aus Geschriebenem extrahiert werden muss
 - [[5 Regelwerk/Charaktere/Eigenschaften/Nemesis.md|Nemesis]]: 1 spezifische [[Kreaturen|Kreatur]] oder 1 spezifischer [[Charaktere|Charakter]] ist der Nemesis des [[Charaktere|Charakters]], Angriffe und Schaden gegen diese +1
 - [[5 Regelwerk/Charaktere/Eigenschaften/panisch.md|panisch]]: nach kritischem Misserfolg -2 Malus auf das nächste Manöver
 - [[5 Regelwerk/Charaktere/Eigenschaften/rebellisch.md|rebellisch]]: -1 auf soziale Interaktionen mit Autoritäten
 - [[5 Regelwerk/Charaktere/Eigenschaften/risikofreudig.md|risikofreudig]]: kann 1x pro [[Rasten#kurze Rast|kurze Rast]] einen Würfelwurf als Risiko durchführen. Hierbei würfelt der GM gleichzeitig und der Spieler entscheidet, ob er sein ergebnis mit dem GM switchen will
-- [[5 Regelwerk/Charaktere/Eigenschaften/Schlossbrecher.md|Schlossbrecher]]: kann [[Schlossknacken]] mit [[Stärke]] skalieren, ist dann aber nicht mehr heimlich möglich
 - [[5 Regelwerk/Charaktere/Eigenschaften/schlacksig.md|schlacksig]]: -1 [[Trefferschwelle]]
+- [[5 Regelwerk/Charaktere/Eigenschaften/leichtfüßig.md|leichtfüßig]]: reduziert malus von Rüstungen beim schleichen um 1
+- [[5 Regelwerk/Charaktere/Eigenschaften/Schlossbrecher.md|Schlossbrecher]]: kann [[Schlossknacken]] mit [[Stärke]] skalieren, ist dann aber nicht mehr heimlich möglich
 - [[5 Regelwerk/Charaktere/Eigenschaften/schwerhörig.md|schwerhörig]]: -1 auf [[Wahrnehmung]] mit Gehör
 - [[5 Regelwerk/Charaktere/Eigenschaften/Schwertschütze.md|Schwertschütze]]: eine Waffe mit der Besonderheit [[kurz]] kann gleichzeitig mit [[Bögen]] geführt werden
 - [[5 Regelwerk/Charaktere/Eigenschaften/Schwächling.md|Schwächling]]: -1 auf Stärkebonus
 - [[5 Regelwerk/Charaktere/Eigenschaften/seelenschwach.md|seelenschwach]]: Taubheit für Magie
 - [[5 Regelwerk/Charaktere/Eigenschaften/Silberzunge.md|Silberzunge]]: skaliert [[Sprachen]] mit [[Charisma]]
-- [[5 Regelwerk/Charaktere/Eigenschaften/Stahllunge.md|Stahllunge]]: ermöglicht längeres Tauchen und einatmen von giften
 - [[5 Regelwerk/Charaktere/Eigenschaften/Spitzohr.md|Spitzohr]]: +1 auf [[Wahrnehmung]] beim Hören
-- [[5 Regelwerk/Charaktere/Eigenschaften/Tierlieb.md|Tierlieb]]: -1 auf [[Angriffsmanöver]] gegen [[Tiere]]
 - [[5 Regelwerk/Charaktere/Eigenschaften/Sturkopf.md|Sturkopf]]: -
+- [[5 Regelwerk/Charaktere/Eigenschaften/Tierlieb.md|Tierlieb]]: -1 auf [[Angriffsmanöver]] gegen [[Tiere]]
 - [[5 Regelwerk/Charaktere/Eigenschaften/träge.md|träge]]: -4 [[Bewegung]]
 - [[5 Regelwerk/Charaktere/Eigenschaften/täuschender Intellekt.md|täuschender Intellekt]]: gewährt möglichkeit, lügen mit intelligenz zu scalen
 - [[5 Regelwerk/Charaktere/Eigenschaften/ungehobelt.md|ungehobelt]]: -1 auf erste soziale Interaktion bei einem Charakter
 - [[5 Regelwerk/Charaktere/Eigenschaften/ungeschickt.md|ungeschickt]]: -1 auf Agilitätsbonus
+- [[5 Regelwerk/Charaktere/Eigenschaften/Stahllunge.md|Stahllunge]]: ermöglicht längeres Tauchen und einatmen von giften
 - [[5 Regelwerk/Charaktere/Eigenschaften/Unglücksbringend.md|Unglücksbringend]]: kann [[Glückspunkte]] einsetzen, um Würfelwürfe Anderer  [[vorteilhaft und unvorteilhaft#unvorteilhaft|unvorteilhaft]] zu machen.
 - [[5 Regelwerk/Charaktere/Eigenschaften/unruhiger Schläfer.md|unruhiger Schläfer]]: halbiert Regenerationsrate pro Rast, allerdings +1 auf [[Wahrnehmung]] während man schläft
 - [[5 Regelwerk/Charaktere/Eigenschaften/Vernarbung.md|Vernarbung]]: gewährt je nach Stelle -1 auf Magie (Kopf), -2 auf Bewegung (Beine), -2 auf Athletik (Korpus), -2 auf Schaden

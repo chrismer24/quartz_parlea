@@ -21,8 +21,8 @@ Es gibt folgende Attribute:
 - [[5 Regelwerk/Charaktere/Attribute/Agilität.md|Agilität]]: drückt die Geschicklichkeit eines [[Charaktere|Charakters]] aus
 - [[5 Regelwerk/Charaktere/Attribute/Charisma.md|Charisma]]: drückt die Ausstrahlung eines [[Charaktere|Charakters]] aus
 - [[5 Regelwerk/Charaktere/Attribute/Glück.md|Glück]]: drückt das Glück eines [[Charaktere|Charakters]] aus
-- [[5 Regelwerk/Charaktere/Attribute/Konstitution.md|Konstitution]]: drückt die Widerstandsfähigkeit eines [[Charaktere|Charakters]] aus
 - [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]: drückt das Wissen und die magische Befähigung eines [[Charaktere|Charakters]] aus
+- [[5 Regelwerk/Charaktere/Attribute/Konstitution.md|Konstitution]]: drückt die Widerstandsfähigkeit eines [[Charaktere|Charakters]] aus
 - [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]: drückt die Kraft und Tragekapazität eines [[Charaktere|Charakters]] aus
 
 Attribute haben einen Wert zwischen 1 und 20, wobei der Wert 10 eine durchschnittliche Begabung eines [[Charaktere|Charakters]] ausdrückt. Hierbei ist zu bedenken, dass Spielcharaktere als Abenteurer bereits überdurchschnittlich fähig sind.
@@ -87,10 +87,10 @@ Folgende Attributssteigerungen basieren auf der Wahl des Pfads:
 - [[5 Regelwerk/Klassen/Paladin/Inquisitor.md|Inquisitor]]: -
 - [[5 Regelwerk/Klassen/Paladin/Schlächter.md|Schlächter]]: -
 - [[5 Regelwerk/Klassen/Paladin/Schwertengel.md|Schwertengel]]: -
-- [[5 Regelwerk/Klassen/Pfade.md|Pfade]]: -
 - [[5 Regelwerk/Klassen/Priester/Ketzer.md|Ketzer]]: -
-- [[5 Regelwerk/Klassen/Priester/Mönch.md|Mönch]]: -
 - [[5 Regelwerk/Klassen/Priester/Missionar.md|Missionar]]: -
+- [[5 Regelwerk/Klassen/Priester/Mönch.md|Mönch]]: -
+- [[5 Regelwerk/Klassen/Pfade.md|Pfade]]: -
 - [[5 Regelwerk/Klassen/Waldläufer/Jäger.md|Jäger]]: -
 - [[5 Regelwerk/Klassen/Waldläufer/Pionier.md|Pionier]]: -
 - [[5 Regelwerk/Klassen/Waldläufer/Vagabund.md|Vagabund]]: -

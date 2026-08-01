@@ -24,8 +24,8 @@ Folgende Gegenstände können mit diesem Handwerk hergestellt werden:
 
 - [[5 Regelwerk/Ausrüstung/Bekleidung/Rüstung/mittlere Rüstung/Bronzerüstung.md|Bronzerüstung]]: -
 - [[5 Regelwerk/Ausrüstung/Bekleidung/Rüstung/schwere Rüstung/Stahlrüstung.md|Stahlrüstung]]: -
-- [[5 Regelwerk/Ausrüstung/Bekleidung/Rüstung/schwere Rüstung/Steineisenrüstung.md|Steineisenrüstung]]: -
 - [[5 Regelwerk/Ausrüstung/Bekleidung/Rüstung/schwere Rüstung/Sternenstahlrüstung.md|Sternenstahlrüstung]]: -
+- [[5 Regelwerk/Ausrüstung/Bekleidung/Rüstung/schwere Rüstung/Steineisenrüstung.md|Steineisenrüstung]]: -
 
 ## assoziierte Zwergenklans
 

@@ -16,6 +16,8 @@ banner_y: 0.128
 
 ## zugehörige Waffen
 
+- [[5 Regelwerk/Ausrüstung/Waffen/Exotische Waffen/Kampfnetz.md|Kampfnetz]]: -
+- [[5 Regelwerk/Ausrüstung/Waffen/Exotische Waffen/Unterarmklinge.md|Unterarmklinge]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Nachladewaffen/Armbrust.md|Armbrust]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Nachladewaffen/Blasrohr.md|Blasrohr]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Nachladewaffen/Kurzarmbrust.md|Kurzarmbrust]]: -
@@ -25,12 +27,10 @@ banner_y: 0.128
 - [[5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Wurfwaffen/Wurfpfeil.md|Wurfpfeil]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Wurfwaffen/Wurfspeer.md|Wurfspeer]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Wurfwaffen/Wurfstern.md|Wurfstern]]: -
-- [[5 Regelwerk/Ausrüstung/Waffen/Exotische Waffen/Kampfnetz.md|Kampfnetz]]: -
-- [[5 Regelwerk/Ausrüstung/Waffen/Exotische Waffen/Unterarmklinge.md|Unterarmklinge]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Klingenwaffen/Bastardschwert.md|Bastardschwert]]: -
+- [[5 Regelwerk/Ausrüstung/Waffen/Schlagwaffen/Großaxt.md|Großaxt]]: -
+- [[5 Regelwerk/Ausrüstung/Waffen/Schlagwaffen/Peitsche.md|Peitsche]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Stoßwaffen/Lanze.md|Lanze]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Stoßwaffen/Menschenfänger.md|Menschenfänger]]: -
 - [[5 Regelwerk/Ausrüstung/Waffen/Stoßwaffen/Speer.md|Speer]]: -
-- [[5 Regelwerk/Ausrüstung/Waffen/Schlagwaffen/Peitsche.md|Peitsche]]: -
-- [[5 Regelwerk/Ausrüstung/Waffen/Schlagwaffen/Großaxt.md|Großaxt]]: -
 - [[zzz_Templates/5 Regelwerk - Waffe.md|5 Regelwerk - Waffe]]: -
