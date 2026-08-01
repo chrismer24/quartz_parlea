@@ -1,11 +1,11 @@
 ---
 publish: true
 permalink: /5 Regelwerk/Klassen/Klassen.md
-aliases: Klasse,Klassenmanöver, Tätigkeit, Mechanik, Klassentätigkeit, Klassenmechanik
+aliases: Klasse,Klassenmanöver, Tätigkeit, Mechanik, Klassentätigkeit, Klassenmechanik, Klassen
 description: Die Klasse von [[Charaktere\|Charakteren]] gibt Auskunft darüber, welche Art von Abenteurer sie sein werden. Die Wahl der Klasse bestimmt [[Attribute#Steigerung durch Volk und Klasse\|Attributssteigerungen]], welche [[Fertigkeiten#komplexe Fertigkeiten erlernen und steigern\|komplexen Fertigkeiten]] erlernt werden können und wo Charaktere [[Talente]] haben.
 created: 2025-06-06T14:00:16.726Z
-modified: 2025-10-24T09:28:39.961Z
-published: 2025-10-24T09:28:39.961Z
+modified: 2026-08-01T14:51:04.038Z
+published: 2026-08-01T14:51:04.038Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/mage_banner.jpg
