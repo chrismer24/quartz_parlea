@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Dieb/Attentäter.md
 aliases: Attentäters, Attentäterin, Attentätern, Attentäterinnen
 description: Meuchelmörder, welche sich ihrer Gegner still und heimlich entledigen
 created: 2025-06-16T08:53:46.458Z
-modified: 2025-11-15T00:04:39.730Z
-published: 2025-11-15T00:04:39.730Z
+modified: 2026-08-01T13:46:34.939Z
+published: 2026-08-01T13:46:34.939Z
 notetype: Pfad
 tags:
 class: Dieb
@@ -28,22 +28,22 @@ attribute_bonus: +2 [[Agilität]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Kehlenschlitzer | [[Kampffertigkeiten|Kampffertigkeit]] |
-> akrobatisches Entwischen | [[Athletik]] |
+> | akrobatisches Entwischen | [[Athletik]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Giftmischer | [[Alchemie]] |
-> tödliche Worte | [[Lügen]] oder [[Manipulieren]] |
+> | | |
+> |---|---|
+> | Giftmischer | [[Alchemie]] |
+> | tödliche Worte | [[Lügen]] oder [[Manipulieren]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Kampffertigkeiten|Kampffertigkeit]] |
 > [[Meister]]:   |[[Magielehren|Magielehre]]|
 > [[Koryphäe]]:   |[[Kampffertigkeiten|Kampffertigkeit]] |

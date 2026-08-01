@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Sonstige/Obsidian.md
 created: 2025-10-23T11:14:55.001Z
-modified: 2025-11-28T17:59:03.234Z
-published: 2025-11-28T17:59:03.234Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 ---
 
 # Obsidian
@@ -16,18 +16,18 @@ published: 2025-11-28T17:59:03.234Z
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]||
-> Preisfaktor||
+> | Preisfaktor||
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor||
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor||
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] |  |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

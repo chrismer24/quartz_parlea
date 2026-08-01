@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Künstlerfraktionen/Bardengruppen/Flusswächter Spatzen.md
 aliases: Fraktionen,
 created: 2026-07-31T15:20:50.625Z
-modified: 2026-07-31T15:20:51.045Z
-published: 2026-07-31T15:20:51.045Z
+modified: 2026-08-01T13:40:23.098Z
+published: 2026-08-01T13:40:23.098Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

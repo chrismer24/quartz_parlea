@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zum Zweihörnigen Einhorn.md
 created: 2025-12-05T23:29:51.886Z
-modified: 2025-12-07T10:43:35.399Z
-published: 2025-12-07T10:43:35.399Z
+modified: 2026-08-01T13:46:35.309Z
+published: 2026-08-01T13:46:35.309Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[Azurhaven]], am Marktplatz |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[Azurhaven]], am Marktplatz |
+> | Besitzer:  |  |
 >
 > Angebot:
 

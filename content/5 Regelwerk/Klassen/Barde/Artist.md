@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Barde/Artist.md
 aliases: Aristen, Artistin, Artistinnen
 description: Spielleute welche nicht nur mit Musik sondern auch mit akrobatischen Tänzen und Tricks überzeugen
 created: 2025-06-16T08:52:35.334Z
-modified: 2026-07-03T13:10:16.869Z
-published: 2026-07-03T13:10:16.869Z
+modified: 2026-08-01T13:46:34.963Z
+published: 2026-08-01T13:46:34.963Z
 notetype: Pfad
 tags:
 class: Barde
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Agilität]], +1 [[Charisma]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Artistisches Körpergefühl | [[Athletik]] |
-> Seiltanzfüße | [[Schleichen]] |
+> | | |
+> |---|---|
+> | Artistisches Körpergefühl | [[Athletik]] |
+> | Seiltanzfüße | [[Schleichen]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Voltigierer | [[Reiten]] |
+> | | |
+> |---|---|
+> | Voltigierer | [[Reiten]] |
 > Schaukämpfer | [[Kampffertigkeiten|Kampffertigkeit]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Meister]]:   |[[Magielehren|Magielehre]]|
 > [[Koryphäe]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|

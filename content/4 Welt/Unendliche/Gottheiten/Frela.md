@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Unendliche/Gottheiten/Frela.md
 aliases: Frelas,
 created: 2024-08-04T13:49:14.589Z
-modified: 2024-08-04T13:49:20.376Z
-published: 2024-08-04T13:49:20.376Z
+modified: 2026-08-01T13:33:24.147Z
+published: 2026-08-01T13:33:24.147Z
 notetype: Unendlich
 tags:
 description:
@@ -18,15 +18,15 @@ banner_y: 0.66
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> verantwortlich für: |  |
-> Säule: |  |
-> Partner: |  |
-> Reich: |  |
-> Waffe: |  |
-> Wesen: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | verantwortlich für:  | |
+> | Säule:  | |
+> | Partner:  | |
+> | Reich:  | |
+> | Waffe:  | |
+> | Wesen:  | |
 
 # Frela
 

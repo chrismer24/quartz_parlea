@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Hölzer/Ebenholz.md
 aliases: ebenhölzern
 created: 2025-10-23T11:14:43.407Z
-modified: 2025-11-28T17:19:15.308Z
-published: 2025-11-28T17:19:15.308Z
+modified: 2026-08-01T13:49:12.146Z
+published: 2026-08-01T13:49:12.146Z
 notetype: Material
 tags:
 description:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
-> benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Forstarbeit.md|Forstarbeit]]|
-> Preisfaktor|3|
+> | | |
+> |---|---|
+> | Vorkommen||
+> | benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Forstarbeit.md|Forstarbeit]]|
+> | Preisfaktor|3|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|2|
-> [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[Elektroschaden|elektrisch]], [[Magieschaden|magisch]] |
-> Waffeneffekt|W8 [[Magieschaden]]|
-> Rüstungseffekt||
-> [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]|[[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Magielehren/Wandlungsmagie.md|Wandlungsmagie]]|
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor|2|
+> | [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[Elektroschaden|elektrisch]], [[Magieschaden|magisch]] |
+> | Waffeneffekt|W8 [[Magieschaden]]|
+> | Rüstungseffekt||
+> | [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]|[[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Magielehren/Wandlungsmagie.md|Wandlungsmagie]]|

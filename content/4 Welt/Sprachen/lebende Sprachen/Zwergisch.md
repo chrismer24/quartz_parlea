@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/Zwergisch.md
 aliases: Zwergischen, neues Zwergisch, Neu-Zwergisch, Neu-Zwergischen, zwergisch
 created: 2024-08-04T20:58:24.279Z
-modified: 2026-02-09T19:01:24.028Z
-published: 2026-02-09T19:01:24.028Z
+modified: 2026-08-01T13:33:24.160Z
+published: 2026-08-01T13:33:24.160Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Zwergisch
 

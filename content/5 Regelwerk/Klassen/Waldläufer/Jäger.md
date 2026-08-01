@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Waldläufer/Jäger.md
 aliases: Pfade,
 created: 2025-06-16T10:25:45.923Z
-modified: 2025-11-15T00:33:32.385Z
-published: 2025-11-15T00:33:32.385Z
+modified: 2026-08-01T13:46:34.939Z
+published: 2026-08-01T13:46:34.939Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus:
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Jagdwerkzeug | [[Fernkampf]]|
-> flinker Wildschütz | [[Athletik]] |
+> | | |
+> |---|---|
+> | Jagdwerkzeug | [[Fernkampf]]|
+> | flinker Wildschütz | [[Athletik]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Großwildjäger  | [[Monsterkunde]] und [[Naturkunde]]|
-> stiller Waidmann | [[Schleichen]] |
+> | | |
+> |---|---|
+> | Großwildjäger  | [[Monsterkunde]] und [[Naturkunde]]|
+> | stiller Waidmann | [[Schleichen]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |  [[Kampffertigkeiten|Kampffertigkeit]]   |
 > [[Meister]]:   | [[Magielehren|Magielehre]]   |
 > [[Koryphäe]]:   |[[Kampffertigkeiten|Kampffertigkeit]] |

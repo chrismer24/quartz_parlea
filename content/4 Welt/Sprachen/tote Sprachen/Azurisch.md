@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/Azurisch.md
 aliases: Azurianisch, Azurischem, Azurischen, Sprache der Azurküste
 created: 2025-06-11T11:52:49.823Z
-modified: 2025-06-11T11:53:53.209Z
-published: 2025-06-11T11:53:53.209Z
+modified: 2026-08-01T13:33:24.154Z
+published: 2026-08-01T13:33:24.154Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Azurisch
 

@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Aledische Familien/Rosenfeld.md
 aliases: Fraktionen,
 created: 2025-11-01T23:00:08.905Z
-modified: 2025-11-02T08:59:58.645Z
-published: 2025-11-02T08:59:58.645Z
+modified: 2026-08-01T13:46:35.057Z
+published: 2026-08-01T13:46:35.057Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

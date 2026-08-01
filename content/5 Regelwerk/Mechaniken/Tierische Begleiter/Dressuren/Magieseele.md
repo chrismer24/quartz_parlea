@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Magieseele.md
 description: Magie kann durch und vom tierischen Begleiter gelenkt werden
 created: 2025-11-30T13:37:47.207Z
-modified: 2025-12-05T22:38:35.336Z
-published: 2025-12-05T22:38:35.336Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| Anordnung von [[Zaubersprüche|Zaubersprüchen]] |
-> Erlernen: |[[#Erlernen Magiequelle|Magiequelle]]  |
-> Vertiefung: | [[#Vertiefung Zauberlehre|Zauberlehre]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| Anordnung von [[Zaubersprüche|Zaubersprüchen]] |
+> | Erlernen: |[[#Erlernen Magiequelle|Magiequelle]]  |
+> | Vertiefung: | [[#Vertiefung Zauberlehre|Zauberlehre]] |
 
 # Magieseele
 

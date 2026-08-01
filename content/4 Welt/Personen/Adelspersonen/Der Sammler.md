@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/Adelspersonen/Der Sammler.md
 aliases: Personen,
 created: 2026-05-03T20:34:49.983Z
-modified: 2026-05-03T14:30:34.000Z
-published: 2026-05-03T14:30:34.000Z
+modified: 2026-08-01T13:40:22.852Z
+published: 2026-08-01T13:40:22.852Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> bekannt als: |  Sar-Nux [[Stahlschwur]] |
-> Heimat: |  |
-> Beschäftigung: |  |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | bekannt als: |  Sar-Nux [[Stahlschwur]] |
+> | Heimat:  | |
+> | Beschäftigung:  | |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: | [[Ar-Selan]] |
-> Geschlecht: | männlich |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : | dunkelbraun |
-> Augenfarbe: | violett, in der Rolle des Händlers stechend grün |
-> Hautfarbe: | gold, in der Rolle des Händlers mattes graubraun |
-> besondere Merkmale | kurzer Kinnbart |
+> | | |
+> |---|---|
+> | Volk: | [[Ar-Selan]] |
+> | Geschlecht: | männlich |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe : | dunkelbraun |
+> | Augenfarbe: | violett, in der Rolle des Händlers stechend grün |
+> | Hautfarbe: | gold, in der Rolle des Händlers mattes graubraun |
+> | besondere Merkmale | kurzer Kinnbart |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: | [[Stahlschwur]] |
-> Eltern: | Zek-Dar [[Xereliu]] (Mutter) und Arlund [[Stahlschwur]], Bruder von Urfelia |
-> Geschwister: | keine (mehr) |
-> Partner: | keine |
-> Kinder: | offiziell keine, unbestimmte Menge an Bastarden |
+> | | |
+> |---|---|
+> | Familie: | [[Stahlschwur]] |
+> | Eltern: | Zek-Dar [[Xereliu]] (Mutter) und Arlund [[Stahlschwur]], Bruder von Urfelia |
+> | Geschwister: | keine (mehr) |
+> | Partner: | keine |
+> | Kinder: | offiziell keine, unbestimmte Menge an Bastarden |
 >
 > ###### Verbindungen
 >

@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Klingenstoßer.md
 aliases: Fraktionen,
 description: Krieger
 created: 2025-08-19T15:29:02.285Z
-modified: 2026-05-13T10:50:37.923Z
-published: 2026-05-13T10:50:37.923Z
+modified: 2026-08-01T13:40:23.091Z
+published: 2026-08-01T13:40:23.091Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

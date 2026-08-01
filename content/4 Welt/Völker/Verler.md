@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Völker/Verler.md
 aliases: Völker,
 created: 2025-07-21T10:59:15.949Z
-modified: 2025-11-03T09:05:35.108Z
-published: 2025-11-03T09:05:35.108Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: Volk
 tags:
 description:
@@ -20,14 +20,14 @@ playble: true
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: |[[Verlisch]], [[Imperial]]\(v.a. Händler)|
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: |[[Verlisch]], [[Imperial]]\(v.a. Händler)|
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -35,10 +35,10 @@ playble: true
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
-> Grundfertigkeit:   | [[Inspirieren]]|
+> | | |
+> |---|---|
+> | Attributsboni:  | |
+> | Grundfertigkeit:   | [[Inspirieren]]|
 
 # Verler
 

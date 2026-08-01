@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Städte/Goldburg.md
 aliases: Siedlungen,
 created: 2025-08-18T21:17:15.681Z
-modified: 2026-07-16T10:57:08.095Z
-published: 2026-07-16T10:57:08.095Z
+modified: 2026-08-01T13:40:22.920Z
+published: 2026-08-01T13:40:22.920Z
 notetype: Siedlung
 tags:
 settlementtype: Stadt
@@ -23,33 +23,33 @@ banner_y: 0.3
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Gründung: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Gründung:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
+> | | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
 >
 > ###### Gesellschaft
 >
-> |    |
-> \---|---|
-> Einwohner: |  |
-> Leitung: |  |
-> Produkte: | [[Ternelischer Sonnenblick]], [[Mühlgewicht]], [[Sankt Folurs]] |
+> | | |
+> |---|---|
+> | Einwohner:  | |
+> | Leitung:  | |
+> | Produkte: | [[Ternelischer Sonnenblick]], [[Mühlgewicht]], [[Sankt Folurs]] |
 >
 > ###### Organisationen
 >
-> Organisation  |  Leitung  |
-> \---|---|
-> Gilde 1 | Meister 1 |
+> | Organisation  |  Leitung  |
+> |---|---|
+> | Gilde 1 | Meister 1 |
 
 # Goldburg
 

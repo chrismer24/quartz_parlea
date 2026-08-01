@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/Wirtschaftspersonen/Orsik Eisenhammer.md
 aliases: Personen,
 created: 2026-05-04T13:34:47.925Z
-modified: 2026-05-05T18:12:16.000Z
-published: 2026-05-05T18:12:16.000Z
+modified: 2026-08-01T13:40:22.852Z
+published: 2026-08-01T13:40:22.852Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: | 327Ä3 |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: |  |
-> Beschäftigung: |  |
+> | | |
+> |---|---|
+> | geboren: | 327Ä3 |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat:  | |
+> | Beschäftigung:  | |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: | [[Zwerge|Zwerg]] |
-> Geschlecht: | männlich |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : |  |
-> Augenfarbe: |  |
-> Hautfarbe: |  |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk: | [[Zwerge|Zwerg]] |
+> | Geschlecht: | männlich |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe :  | |
+> | Augenfarbe:  | |
+> | Hautfarbe:  | |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: |  |
-> Partner: |  |
-> Kinder: |  |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister:  | |
+> | Partner:  | |
+> | Kinder:  | |
 >
 > ###### Verbindungen
 >

@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Krieger/Zauberbrecher.md
 aliases: Pfade,
 created: 2025-06-16T09:48:51.211Z
-modified: 2025-11-16T10:24:16.983Z
-published: 2025-11-16T10:24:16.983Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Pfad
 tags:
 description:
@@ -28,23 +28,23 @@ attribute_bonus: +1 [[Intelligenz]], +1 [[Stärke]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Magiekenner | [[Arkanologie]] **und** beliebiges [[Wissen]] |
-> Absichtenkenner | [[Psychologie]] |
+> | | |
+> |---|---|
+> | Magiekenner | [[Arkanologie]] **und** beliebiges [[Wissen]] |
+> | Absichtenkenner | [[Psychologie]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > brechende Waffen | [[Kampffertigkeiten|Kampffertigkeit]] |
-> natürliche Heilung | [[Heilkunst]] |
+> | natürliche Heilung | [[Heilkunst]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
-> [[Geselle]]:   |[[Verteidigen]]|
+> | | |
+> |---|---|
+> | [[Geselle]]:   |[[Verteidigen]]|
 > [[Meister]]:   |  [[Kampffertigkeiten|Kampffertigkeit]] oder [[Magielehren|Magielehre]]|
 > [[Koryphäe]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 >

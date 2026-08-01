@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/fremde Sprachen/Sprache der Tiere.md
 aliases: Sprachen,
 created: 2025-06-11T11:28:09.649Z
-modified: 2025-06-11T15:05:30.285Z
-published: 2025-06-11T15:05:30.285Z
+modified: 2026-08-01T13:33:24.170Z
+published: 2026-08-01T13:33:24.170Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Sprache der Tiere
 

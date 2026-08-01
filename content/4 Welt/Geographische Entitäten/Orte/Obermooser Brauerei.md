@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Orte/Obermooser Brauerei.md
 aliases: Orte,
 created: 2025-12-05T22:53:59.445Z
-modified: 2025-12-05T22:54:07.540Z
-published: 2025-12-05T22:54:07.540Z
+modified: 2026-08-01T13:33:24.323Z
+published: 2026-08-01T13:33:24.323Z
 notetype: Ort
 tags:
 placetype:
@@ -20,20 +20,20 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Bewohner: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Bewohner:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
-> nahegelegene Siedlungen: |  |
+> | | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
+> | nahegelegene Siedlungen:  | |
 
 # Obermooser Brauerei
 

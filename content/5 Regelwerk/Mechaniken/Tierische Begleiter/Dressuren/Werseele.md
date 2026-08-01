@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Werseele.md
 created: 2025-12-01T20:47:26.378Z
-modified: 2025-12-05T22:38:57.364Z
-published: 2025-12-05T22:38:57.364Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Druide/Druide.md|Druide]] |
-> [[Begleitermanöver]]| |
-> Erlernen: |  |
-> Vertiefung: |  |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Druide/Druide.md|Druide]] |
+> | [[Begleitermanöver]] | |
+> | Erlernen:  | |
+> | Vertiefung:  | |
 
 # Werseele
 

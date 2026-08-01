@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Seelenkommunikation.md
 description: ermöglicht die mentale Kommunikation mit dem Begleiter
 created: 2025-12-01T22:59:57.226Z
-modified: 2025-12-05T22:38:41.798Z
-published: 2025-12-05T22:38:41.798Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| stumme Befehle |
-> Erlernen: | [[#Erlernen Kommunikationsfluss|Kommunikationsfluss]]] |
-> Vertiefung: | [[#Vertiefung Konstante Verbindung|Konstante Verbindung]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| stumme Befehle |
+> | Erlernen: | [[#Erlernen Kommunikationsfluss|Kommunikationsfluss]]] |
+> | Vertiefung: | [[#Vertiefung Konstante Verbindung|Konstante Verbindung]] |
 
 # Seelenkommunikation
 

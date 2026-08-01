@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Druide/Hexenmeister.md
 aliases: Pfade,
 created: 2025-06-16T09:30:57.941Z
-modified: 2025-11-30T03:50:03.198Z
-published: 2025-11-30T03:50:03.198Z
+modified: 2026-08-01T13:46:34.937Z
+published: 2026-08-01T13:46:34.937Z
 notetype: Pfad
 tags:
 description:
@@ -28,23 +28,23 @@ attribute_bonus: +2 [[Intelligenz]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Spirituelle Reise | [[Weltenkunde]] und beliebiges [[Wissen]] |
-> Hexenkessel | [[Alchemie]] |
+> | | |
+> |---|---|
+> | Spirituelle Reise | [[Weltenkunde]] und beliebiges [[Wissen]] |
+> | Hexenkessel | [[Alchemie]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Pakthändler | [[Feilschen]] oder [[Manipulieren]]|
+> | | |
+> |---|---|
+> | Pakthändler | [[Feilschen]] oder [[Manipulieren]]|
 > Geisterzauber | [[Magielehren|Magielehre]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
-> [[Geselle]]:   |[[Beschwörungsmagie]]|
+> | | |
+> |---|---|
+> | [[Geselle]]:   |[[Beschwörungsmagie]]|
 > [[Meister]]:   |[[Magielehren|Magielehre]]|
 > [[Koryphäe]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 >

@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/Karawanisch.md
 aliases: Karawanischem, Karawanischen, Alt-Dünisch, Alt-Dünischem, Alt-Dünischen, Alt-Rhexa, Nomadisch
 created: 2025-06-11T11:54:36.825Z
-modified: 2025-06-11T11:55:20.424Z
-published: 2025-06-11T11:55:20.424Z
+modified: 2026-08-01T13:33:24.153Z
+published: 2026-08-01T13:33:24.153Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Karawanisch
 

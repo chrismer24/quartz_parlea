@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthof/Zur gerösteten Ente.md
 created: 2025-12-07T09:48:22.334Z
-modified: 2025-12-07T09:49:00.493Z
-published: 2025-12-07T09:49:00.493Z
+modified: 2026-08-01T13:40:22.977Z
+published: 2026-08-01T13:40:22.977Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | Straße zwischen [[Gasthof Tibentrunk]] und [[Zum Feurigen Barte]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | Straße zwischen [[Gasthof Tibentrunk]] und [[Zum Feurigen Barte]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

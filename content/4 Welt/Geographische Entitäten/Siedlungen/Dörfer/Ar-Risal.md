@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Ar-Risal.md
 aliases: Siedlungen,
 created: 2025-08-19T21:44:41.027Z
-modified: 2025-08-19T21:45:03.881Z
-published: 2025-08-19T21:45:03.881Z
+modified: 2026-08-01T13:40:22.920Z
+published: 2026-08-01T13:40:22.920Z
 notetype: Siedlung
 tags:
 settlementtype: Dorf
@@ -23,33 +23,33 @@ banner_y: 0.3
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Gründung: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Gründung:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
+> | | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
 >
 > ###### Gesellschaft
 >
-> |    |
-> \---|---|
-> Einwohner: |  |
-> Leitung: |  |
-> Produkte: |  |
+> | | |
+> |---|---|
+> | Einwohner:  | |
+> | Leitung:  | |
+> | Produkte:  | |
 >
 > ###### Organisationen
 >
-> Organisation  |  Leitung  |
-> \---|---|
-> Gilde 1 | Meister 1 |
+> | Organisation  |  Leitung  |
+> |---|---|
+> | Gilde 1 | Meister 1 |
 
 # Ar-Risal
 

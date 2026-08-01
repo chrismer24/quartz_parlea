@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Aledische Familien/Marzios.md
 aliases: Fraktionen,
 created: 2025-11-01T23:00:19.437Z
-modified: 2026-01-19T18:29:01.963Z
-published: 2026-01-19T18:29:01.963Z
+modified: 2026-08-01T13:46:35.057Z
+published: 2026-08-01T13:46:35.057Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

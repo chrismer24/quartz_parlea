@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zum Fetten Eber.md
 created: 2025-12-05T22:48:21.386Z
-modified: 2026-07-31T15:19:50.294Z
-published: 2026-07-31T15:19:50.294Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Flusswacht.md|Flusswacht]] |
-> Besitzer:  | Schorschik [[Schankwirt]] |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Flusswacht.md|Flusswacht]] |
+> | Besitzer:  | Schorschik [[Schankwirt]] |
 >
 > Angebot:
 

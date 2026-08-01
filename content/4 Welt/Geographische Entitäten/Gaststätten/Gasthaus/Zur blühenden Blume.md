@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zur blühenden Blume.md
 created: 2025-12-05T23:27:15.980Z
-modified: 2025-12-05T23:44:25.062Z
-published: 2025-12-05T23:44:25.062Z
+modified: 2026-08-01T13:46:35.309Z
+published: 2026-08-01T13:46:35.309Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Blütenweiher.md|Blütenweiher]] |
-> Besitzer:  | Falk Feuerbart |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Blütenweiher.md|Blütenweiher]] |
+> | Besitzer:  | Falk Feuerbart |
 >
 > Angebot:
 

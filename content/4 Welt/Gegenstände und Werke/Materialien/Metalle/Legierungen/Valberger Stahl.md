@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Valberger Stahl.md
 created: 2025-10-23T11:27:05.588Z
-modified: 2025-11-28T17:35:30.010Z
-published: 2025-11-28T17:35:30.010Z
+modified: 2026-08-01T13:40:22.829Z
+published: 2026-08-01T13:40:22.829Z
 notetype: Material
 aliases:
 tags:
@@ -30,20 +30,20 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> |   | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Schmiedekunst.md|Schmiedekunst]]|
-> Preisfaktor|1.5|
+> | Preisfaktor|1.5|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|1.5|
+> |   | |
+> |---|---|
+> | Beständigkeitsfaktor|1.5|
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[5 Regelwerk/Mechaniken/Schadensarten/Wasserschaden.md|Wasser]] |
-> Waffeneffekt|W6 [[Magieschaden]]|
-> Rüstungseffekt||
+> | Waffeneffekt|W6 [[Magieschaden]]|
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||
 
 aus den Valberger Steinschmieden, deren Ambosse aus dem Felsen des Heiligtumshofs geschlagen sind und deren inherente Energie in die gefertigten Gegenstände übergeht.

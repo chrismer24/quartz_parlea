@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Wächter.md
 description: Erhöht Aufmerksamkeit und kann als Wächter am Lager dienen
 created: 2025-11-30T13:16:37.096Z
-modified: 2025-12-05T22:38:53.517Z
-published: 2025-12-05T22:38:53.517Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Konstitution.md|Konstitution]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| Aufmerksamkeit und Beobachtung|
-> Erlernen: |  |
-> Vertiefung: |  |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Konstitution.md|Konstitution]]  |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| Aufmerksamkeit und Beobachtung|
+> | Erlernen:  | |
+> | Vertiefung:  | |
 
 # Wächter
 

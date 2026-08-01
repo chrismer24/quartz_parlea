@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Dieb/Dieb.md
 aliases: Diebstahl, Diebin, Diebe, Diebinnen
 description: Gauner, die durch Städte schleichen und [[Golddrachen]] mitgehen lassen
 created: 2025-06-06T14:58:58.092Z
-modified: 2025-11-25T19:09:36.689Z
-published: 2025-11-25T19:09:36.689Z
+modified: 2026-08-01T13:46:34.939Z
+published: 2026-08-01T13:46:34.939Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/thief_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.1
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
-> heimliches Huschen | [[Schleichen]] |
-> Sesamöffner | [[Schlossknacken]] |
+> | | |
+> |---|---|
+> | heimliches Huschen | [[Schleichen]] |
+> | Sesamöffner | [[Schlossknacken]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >

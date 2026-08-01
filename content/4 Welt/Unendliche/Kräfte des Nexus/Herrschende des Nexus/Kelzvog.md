@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Unendliche/Kräfte des Nexus/Herrschende des Nexus/Kelzvog.md
 aliases: Unendliche,
 created: 2024-10-27T09:54:56.959Z
-modified: 2024-10-27T09:55:09.168Z
-published: 2024-10-27T09:55:09.168Z
+modified: 2026-08-01T13:46:34.996Z
+published: 2026-08-01T13:46:34.996Z
 notetype: Unendlich
 tags:
 description:
@@ -18,15 +18,15 @@ banner_y: 0.66
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> verantwortlich für: |  |
-> Säule: |  |
-> Partner: |  |
-> Reich: |  |
-> Waffe: |  |
-> Wesen: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | verantwortlich für:  | |
+> | Säule:  | |
+> | Partner:  | |
+> | Reich:  | |
+> | Waffe:  | |
+> | Wesen:  | |
 
 # Kelzvog
 

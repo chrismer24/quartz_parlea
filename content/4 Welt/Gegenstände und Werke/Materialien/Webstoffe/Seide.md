@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Webstoffe/Seide.md
 created: 2025-10-23T11:15:58.874Z
-modified: 2025-11-28T18:15:52.415Z
-published: 2025-11-28T18:15:52.415Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Stoffkunst.md|Stoffkunst]]|
-> Preisfaktor|6|
+> | Preisfaktor|6|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor||
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor||
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[Elektroschaden|elektrisch]], [[Magieschaden|Magie]] |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

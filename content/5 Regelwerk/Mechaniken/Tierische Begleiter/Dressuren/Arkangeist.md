@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Arkangeist.md
 description: Verbindung zu und Stärkung der magischen Ströme des Begleiters
 created: 2025-12-01T20:49:07.916Z
-modified: 2025-12-05T22:38:10.618Z
-published: 2025-12-05T22:38:10.618Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,11 +20,11 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Intelligenz.md|Intelligenz]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Zauberer/Zauberer.md|Zauberer]] |
-> [[Begleitermanöver]]| Nutzung des Elements |
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Zauberer/Zauberer.md|Zauberer]] |
+> | [[Begleitermanöver]]| Nutzung des Elements |
 > Erlernen: | [[#Erlernen Magiestrom|Magiestrom]]  |
 > Vertiefung: | [[#Vertiefung Elementargeist|Elementargeist]] |
 

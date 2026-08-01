@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Zauberer/Zauberer.md
 aliases: Zauberers, Zauberern, Siegelmarke, Zauberin, Zauberinnen
 description: Meister der Magie und ihrer Formung
 created: 2025-06-06T14:59:10.772Z
-modified: 2025-10-26T20:47:44.920Z
-published: 2025-10-26T20:47:44.920Z
+modified: 2026-08-01T13:46:34.938Z
+published: 2026-08-01T13:46:34.938Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/mage_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.24
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Magiekenntnis| [[Magielehren|Magielehre]] |
-> Zauberwissen | [[Arkanologie]] |
+> | Zauberwissen | [[Arkanologie]] |
 >
 > #### [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >

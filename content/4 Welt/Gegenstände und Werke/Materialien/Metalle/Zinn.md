@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Metalle/Zinn.md
 created: 2025-10-23T11:30:58.533Z
-modified: 2025-11-28T17:50:16.996Z
-published: 2025-11-28T17:50:16.996Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Schmiedekunst.md|Schmiedekunst]]|
-> Preisfaktor|1.5|
+> | Preisfaktor|1.5|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|0.75|
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor|0.75|
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[5 Regelwerk/Mechaniken/Schadensarten/Dunkler Schaden.md|dunkel]] |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

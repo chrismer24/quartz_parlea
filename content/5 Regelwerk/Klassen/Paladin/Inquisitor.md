@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Paladin/Inquisitor.md
 aliases: Pfade,
 created: 2025-06-16T09:50:10.666Z
-modified: 2025-10-26T21:01:29.615Z
-published: 2025-10-26T21:01:29.615Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Pfad
 tags:
 description:
@@ -28,24 +28,24 @@ attribute_bonus:
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
-> [[Geselle]]:   |    |
-> [[Meister]]:   |    |
+> | | |
+> |---|---|
+> | [[Geselle]]:    | |
+> | [[Meister]]:    | |
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|
 >
 > #### [[Pfade#Spezialisierung der Klassen Klassenmechanik Klassenmechanik|Mechanik-Spezialisierung]]

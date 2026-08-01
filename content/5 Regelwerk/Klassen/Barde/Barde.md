@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Barde/Barde.md
 aliases: Barden, Auftritt, Auftritts, Auftritten
 description: Spielleute, welche mit ihren Auftritten begeisern
 created: 2025-06-06T11:52:59.157Z
-modified: 2025-10-26T20:53:45.146Z
-published: 2025-10-26T20:53:45.146Z
+modified: 2026-08-01T13:46:34.963Z
+published: 2026-08-01T13:46:34.963Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/bard_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.1
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
-> Verzaubernde Melodien | [[Magielehren|Magielehre]] |
-> Musikant | [[Musizieren]] |
+> | | |
+> |---|---|
+> | Verzaubernde Melodien | [[Magielehren|Magielehre]] |
+> | Musikant | [[Musizieren]] |
 >
 > #### [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >

@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Priester/Ketzer.md
 aliases: Pfade,
 created: 2025-06-16T10:13:52.458Z
-modified: 2026-04-18T08:19:53.000Z
-published: 2026-04-18T08:19:53.000Z
+modified: 2026-08-01T13:46:34.963Z
+published: 2026-08-01T13:46:34.963Z
 notetype: Pfad
 tags:
 description:
@@ -28,24 +28,24 @@ attribute_bonus:
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
-> [[Geselle]]:   |    |
-> [[Meister]]:   |    |
+> | | |
+> |---|---|
+> | [[Geselle]]:    | |
+> | [[Meister]]:    | |
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|
 >
 > #### [[Pfade#Spezialisierung der Klassen Klassenmechanik Klassenmechanik|Mechanik-Spezialisierung]]

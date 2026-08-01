@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zum Gesunkenen Fisch.md
 created: 2025-12-05T23:16:57.848Z
-modified: 2025-12-05T23:23:19.669Z
-published: 2025-12-05T23:23:19.669Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Sonnwacht.md|Sonnwacht]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Sonnwacht.md|Sonnwacht]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthof/Limas Rast.md
 created: 2026-05-13T07:42:46.815Z
-modified: 2026-05-14T08:16:15.000Z
-published: 2026-05-14T08:16:15.000Z
+modified: 2026-08-01T13:40:22.977Z
+published: 2026-08-01T13:40:22.977Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | im [[Grüntal]] zwischen Sumpf und Wald |
-> Besitzer:  | Lima, ältere Waldelfe |
+> | | |
+> |---|---|
+> | Standort: | im [[Grüntal]] zwischen Sumpf und Wald |
+> | Besitzer:  | Lima, ältere Waldelfe |
 >
 > Angebot:
 

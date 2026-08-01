@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 Regelwerk/Ausrüstung/Leitgegenstände/Weihrauchfass.md
 created: 2025-10-22T21:25:47.701Z
-modified: 2025-12-05T22:42:32.324Z
-published: 2025-12-05T22:42:32.324Z
+modified: 2026-08-01T13:40:23.186Z
+published: 2026-08-01T13:40:23.186Z
 notetype: Leitgegenstand
 aliases:
 tags:
@@ -35,28 +35,28 @@ banner_y: 0.348
 >
 > ## Zaubereigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Leitgegenstände#Zauberinitiative|Zauberinitiative]]| |
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||
 > [[Leitgegenstände#Leitfaktor|Leitfaktor]]||
 >
 > ## Kampfeigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Kampffertigkeiten|Kampffertigkeit]]|  |
-> [[Initiative]] |  |
+> | [[Initiative]] |  |
 > [[Schadenswurf|Schaden]]| |
 > [[Defensivmanöver#Blockkonstante|Blockkonstante]]| |
 > [[Waffen#Beständigkeit|Beständigkeit]]| |
-> Eigenschaften| |
+> | Eigenschaften| |
 >
 > ## Gegenstandseigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Inventarkapazität#Inventarklassen|Inventarklasse]]||
-> Basispreis| [[Golddrachen]] |
+> | Basispreis| [[Golddrachen]] |
 > benötigtes [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Schmiedekunst.md|Schmiedekunst]]|
 > [[Ausrüstung#Starterklasse|Starterklasse]]||

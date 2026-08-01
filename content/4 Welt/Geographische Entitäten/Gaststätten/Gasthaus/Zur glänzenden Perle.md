@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zur glänzenden Perle.md
 created: 2025-12-05T23:10:13.327Z
-modified: 2025-12-07T10:43:36.841Z
-published: 2025-12-07T10:43:36.841Z
+modified: 2026-08-01T13:40:22.977Z
+published: 2026-08-01T13:40:22.977Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Muschelpier.md|Muschelpier]] |
-> Besitzer:  | Neisa |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Muschelpier.md|Muschelpier]] |
+> | Besitzer:  | Neisa |
 >
 > Angebot:
 

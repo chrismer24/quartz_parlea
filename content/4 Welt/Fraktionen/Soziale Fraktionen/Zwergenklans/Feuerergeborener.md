@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Feuerergeborener.m
 aliases: Fraktionen,
 description: Priester Farles
 created: 2025-08-19T15:22:30.461Z
-modified: 2026-02-12T18:13:52.000Z
-published: 2026-02-12T18:13:52.000Z
+modified: 2026-08-01T13:40:22.992Z
+published: 2026-08-01T13:40:22.992Z
 notetype: Fraktion
 tags:
 factiontype: Zwergenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

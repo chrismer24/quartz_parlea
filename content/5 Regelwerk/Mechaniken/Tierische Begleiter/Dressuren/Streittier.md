@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Streittier.md
 description: "[[Ritter]] setzen ihre [[Reittier|Reittiere]] als Waffe ein"
 created: 2025-12-01T20:50:44.568Z
-modified: 2025-12-05T22:38:44.080Z
-published: 2025-12-05T22:38:44.080Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Krieger/Ritter.md|Ritter]] |
-> [[Begleitermanöver]]| Befehlen von Husarenritt/Stampfangriff |
-> Erlernen: | [[#Erlernen Husarenritt|Husarenritt]] |
-> Vertiefung: | [[#Vertiefung Stampfangriff|Stampfangriff]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]  |
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Krieger/Ritter.md|Ritter]] |
+> | [[Begleitermanöver]]| Befehlen von Husarenritt/Stampfangriff |
+> | Erlernen: | [[#Erlernen Husarenritt|Husarenritt]] |
+> | Vertiefung: | [[#Vertiefung Stampfangriff|Stampfangriff]] |
 
 # Streittier
 

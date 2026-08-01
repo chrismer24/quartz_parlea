@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/religiöse Personen/Priester/Alyenne RaleothBedular.md
 aliases: Personen,
 created: 2026-05-04T14:32:45.281Z
-modified: 2026-05-05T18:12:14.000Z
-published: 2026-05-05T18:12:14.000Z
+modified: 2026-08-01T13:40:22.852Z
+published: 2026-08-01T13:40:22.852Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: |  |
-> Beschäftigung: |  |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat:  | |
+> | Beschäftigung:  | |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: |  |
-> Geschlecht: |  |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : |  |
-> Augenfarbe: |  |
-> Hautfarbe: |  |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk:  | |
+> | Geschlecht:  | |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe :  | |
+> | Augenfarbe:  | |
+> | Hautfarbe:  | |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: |  |
-> Partner: | [[Serelin LevandaarHelaraanTindria]] |
-> Kinder: | [[Enyana LevandaarNedaloDarathyl]], Nervaer |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister:  | |
+> | Partner: | [[Serelin LevandaarHelaraanTindria]] |
+> | Kinder: | [[Enyana LevandaarNedaloDarathyl]], Nervaer |
 >
 > ###### Verbindungen
 >

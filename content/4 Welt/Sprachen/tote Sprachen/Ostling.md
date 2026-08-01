@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/Ostling.md
 aliases: Ost-Sprache, Ostlingisch
 created: 2025-06-11T11:34:41.412Z
-modified: 2025-06-11T11:35:04.232Z
-published: 2025-06-11T11:35:04.232Z
+modified: 2026-08-01T13:33:24.153Z
+published: 2026-08-01T13:33:24.153Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Ostling
 

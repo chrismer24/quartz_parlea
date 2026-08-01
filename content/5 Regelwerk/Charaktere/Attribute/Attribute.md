@@ -87,16 +87,16 @@ Folgende Attributssteigerungen basieren auf der Wahl des Pfads:
 - [[5 Regelwerk/Klassen/Paladin/Inquisitor.md|Inquisitor]]: -
 - [[5 Regelwerk/Klassen/Paladin/Schlächter.md|Schlächter]]: -
 - [[5 Regelwerk/Klassen/Paladin/Schwertengel.md|Schwertengel]]: -
+- [[5 Regelwerk/Klassen/Pfade.md|Pfade]]: -
 - [[5 Regelwerk/Klassen/Priester/Ketzer.md|Ketzer]]: -
 - [[5 Regelwerk/Klassen/Priester/Missionar.md|Missionar]]: -
 - [[5 Regelwerk/Klassen/Priester/Mönch.md|Mönch]]: -
-- [[5 Regelwerk/Klassen/Pfade.md|Pfade]]: -
 - [[5 Regelwerk/Klassen/Waldläufer/Jäger.md|Jäger]]: -
 - [[5 Regelwerk/Klassen/Waldläufer/Pionier.md|Pionier]]: -
 - [[5 Regelwerk/Klassen/Waldläufer/Vagabund.md|Vagabund]]: -
 - [[5 Regelwerk/Klassen/Zauberer/Arkanologe.md|Arkanologe]]: -
-- [[5 Regelwerk/Klassen/Zauberer/Kampfmagier.md|Kampfmagier]]: -
 - [[5 Regelwerk/Klassen/Zauberer/Runenweber.md|Runenweber]]: -
+- [[5 Regelwerk/Klassen/Zauberer/Kampfmagier.md|Kampfmagier]]: -
 
 ### Erhöhung ab der Gesellenstufe
 

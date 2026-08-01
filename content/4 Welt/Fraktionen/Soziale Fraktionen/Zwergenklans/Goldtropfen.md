@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Goldtropfen.md
 aliases: Fraktionen,
 description: Klan an Wirten
 created: 2026-05-04T08:45:40.769Z
-modified: 2026-05-05T18:12:14.000Z
-published: 2026-05-05T18:12:14.000Z
+modified: 2026-08-01T13:40:23.091Z
+published: 2026-08-01T13:40:23.091Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

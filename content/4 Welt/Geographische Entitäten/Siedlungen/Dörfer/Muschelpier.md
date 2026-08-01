@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Muschelpier.md
 aliases: Siedlungen,
 created: 2025-12-05T23:10:04.769Z
-modified: 2025-12-05T23:10:05.193Z
-published: 2025-12-05T23:10:05.193Z
+modified: 2026-08-01T13:46:35.308Z
+published: 2026-08-01T13:46:35.308Z
 notetype: Siedlung
 tags:
 settlementtype: Stadt
@@ -23,33 +23,33 @@ banner_y: 0.3
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Gründung: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Gründung:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
+> | | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
 >
 > ###### Gesellschaft
 >
-> |    |
-> \---|---|
-> Einwohner: |  |
-> Leitung: |  |
-> Produkte: |  |
+> | | |
+> |---|---|
+> | Einwohner:  | |
+> | Leitung:  | |
+> | Produkte:  | |
 >
 > ###### Organisationen
 >
-> Organisation  |  Leitung  |
-> \---|---|
-> Gilde 1 | Meister 1 |
+> | Organisation  |  Leitung  |
+> |---|---|
+> | Gilde 1 | Meister 1 |
 
 # Muschelpier
 

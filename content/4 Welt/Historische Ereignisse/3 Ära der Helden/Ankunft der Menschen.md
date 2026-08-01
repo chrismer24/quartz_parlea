@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Historische Ereignisse/3 Ära der Helden/Ankunft der Menschen.md
 aliases: Ereignisse,
 created: 2024-08-04T14:03:34.103Z
-modified: 2024-08-04T14:03:34.411Z
-published: 2024-08-04T14:03:34.411Z
+modified: 2026-08-01T13:40:22.851Z
+published: 2026-08-01T13:40:22.851Z
 notetype: Ereignis
 tags:
 eventtype:
@@ -20,23 +20,23 @@ banner_y: 0.55
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Datum: |   |
-> Ort: |  |
-> Auswirkung: |  |
+> | | |
+> |---|---|
+> | Datum:  | |
+> | Ort:  | |
+> | Auswirkung:  | |
 >
 > ###### Involvierte Parteien
 >
-> |   |
-> \---|---|
-> Beispiel | Beispiel |
+> | | |
+> |---|---|
+> | Beispiel | Beispiel |
 >
 > ###### Involvierte Personen
 >
-> |   |
-> \---|---|
-> Beispiel | Beispiel |
+> | | |
+> |---|---|
+> | Beispiel | Beispiel |
 
 # Ankunft der Menschen
 

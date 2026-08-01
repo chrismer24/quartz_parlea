@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Städte/Alria.md
 aliases: Siedlungen,
 created: 2025-08-18T21:53:08.220Z
-modified: 2025-08-18T22:36:43.962Z
-published: 2025-08-18T22:36:43.962Z
+modified: 2026-08-01T13:40:22.901Z
+published: 2026-08-01T13:40:22.901Z
 notetype: Siedlung
 tags:
 settlementtype: Stadt
@@ -23,33 +23,33 @@ banner_y: 0.3
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Gründung: |  |
+> |   | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Gründung:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
+> |   | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
 >
 > ###### Gesellschaft
 >
-> |    |
-> \---|---|
-> Einwohner: |  |
-> Leitung: |  |
-> Produkte: |  |
+> |   | |
+> |---|---|
+> | Einwohner:  | |
+> | Leitung:  | |
+> | Produkte:  | |
 >
 > ###### Organisationen
 >
-> Organisation  |  Leitung  |
-> \---|---|
-> Gilde 1 | Meister 1 |
+> | Organisation  |  Leitung  |
+> |---|---|
+> | Gilde 1 | Meister 1 |
 
 # Alria
 

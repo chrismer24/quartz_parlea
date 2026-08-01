@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Ausrüstung/Leitgegenstände/kurzer Zauberstab.md
 aliases: kurze Zauberstäbe, kurzen Zauberstabs
 created: 2025-10-22T21:25:47.701Z
-modified: 2025-12-05T22:41:53.449Z
-published: 2025-12-05T22:41:53.449Z
+modified: 2026-08-01T13:40:23.186Z
+published: 2026-08-01T13:40:23.186Z
 notetype: Leitgegenstand
 tags:
 description:
@@ -36,28 +36,28 @@ banner_y: 0.348
 >
 > ## Zaubereigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Leitgegenstände#Zauberinitiative|Zauberinitiative]]| 1W6|
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]|keine|
 > [[Leitgegenstände#Leitfaktor|Leitfaktor]]|2|
 >
 > ## Kampfeigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Kampffertigkeiten|Kampffertigkeit]]| [[5 Regelwerk/Ausrüstung/Waffen/Stoßwaffen/Stoßwaffen.md|Stoßwaffen]] |
-> [[Initiative]] | 1W6 |
+> | [[Initiative]] | 1W6 |
 > [[Schadenswurf|Schaden]]| 1W4|
 > [[Defensivmanöver#Blockkonstante|Blockkonstante]]| 0|
 > [[Waffen#Beständigkeit|Beständigkeit]]| 5|
-> Eigenschaften| [[5 Regelwerk/Ausrüstung/Waffen/kurz.md|kurz]]|
+> | Eigenschaften| [[5 Regelwerk/Ausrüstung/Waffen/kurz.md|kurz]]|
 >
 > ## Gegenstandseigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Inventarkapazität#Inventarklassen|Inventarklasse]]|2|
-> Basispreis|1500 [[Golddrachen]] |
+> | Basispreis|1500 [[Golddrachen]] |
 > benötigtes [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Arkanie.md|Arkanie]]|
 > [[Ausrüstung#Starterklasse|Starterklasse]]|5|

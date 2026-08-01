@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Krieger/Barbar.md
 aliases: Pfade,
 created: 2025-06-16T09:48:51.211Z
-modified: 2025-11-12T23:53:55.005Z
-published: 2025-11-12T23:53:55.005Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Konstitution]], +1 [[Stärke]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Kraft des Berserkers | [[Athletik]] |
-> Wilder Krieger | [[Überlebenstechniken]] |
+> | | |
+> |---|---|
+> | Kraft des Berserkers | [[Athletik]] |
+> | Wilder Krieger | [[Überlebenstechniken]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Barbarenarsenal | [[Kampffertigkeiten|Kampffertigkeit]] |
-> Bandagierte Muskeln | [[Heilkunst]] |
+> | Bandagierte Muskeln | [[Heilkunst]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Meister]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Koryphäe]]:   |[[dunkle Magie]] oder [[Kampffertigkeiten|Kampffertigkeit]]|

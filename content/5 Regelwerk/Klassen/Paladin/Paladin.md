@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Paladin/Paladin.md
 aliases: Paladine, Segen, Paladins, Paladinen
 description: Glaubenskrieger im Dienste der [[Gottheiten]]
 created: 2025-06-06T14:59:05.514Z
-modified: 2025-10-26T21:01:50.759Z
-published: 2025-10-26T21:01:50.759Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/paladin_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.24
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Bringer der Götter | [[Kampffertigkeiten|Kampffertigkeit]] oder [[heilige Magie]] |
-> Gesegnete Führung | [[Inspirieren]] |
+> | Gesegnete Führung | [[Inspirieren]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >

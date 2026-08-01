@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Symbol der Hoffnung.md
 description: "[[Priester]] machen ihre Begleiter zur Verkörperung des Glaubens, die sie und ihre Freunde unterstützten"
 created: 2025-12-01T20:46:42.657Z
-modified: 2025-12-05T22:38:46.492Z
-published: 2025-12-05T22:38:46.492Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Charisma.md|Charisma]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Priester/Priester.md|Priester]] |
-> [[Begleitermanöver]]| Befehl Erlösung/religiöses Auftreten |
-> Erlernen: | [[#Erlernen Retter der Treuen|Retter der Treuen]] |
-> Vertiefung: | [[#Vertiefung Sakrament der Erlösung|Sakrament der Erlösung]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Charisma.md|Charisma]]  |
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Priester/Priester.md|Priester]] |
+> | [[Begleitermanöver]]| Befehl Erlösung/religiöses Auftreten |
+> | Erlernen: | [[#Erlernen Retter der Treuen|Retter der Treuen]] |
+> | Vertiefung: | [[#Vertiefung Sakrament der Erlösung|Sakrament der Erlösung]] |
 
 # Symbol der Hoffnung
 

@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthof/Seefahrers Ruh.md
 created: 2025-12-05T23:18:33.238Z
-modified: 2025-12-05T23:19:08.911Z
-published: 2025-12-05T23:19:08.911Z
+modified: 2026-08-01T13:40:22.977Z
+published: 2026-08-01T13:40:22.977Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: |  |
-> Besitzer:  | Aurelia und Sur-Xa |
+> | | |
+> |---|---|
+> | Standort: |  |
+> | Besitzer:  | Aurelia und Sur-Xa |
 >
 > Angebot:
 

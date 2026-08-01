@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Dieb/Schatzsucher.md
 aliases: Pfade,
 created: 2025-06-16T08:54:14.053Z
-modified: 2025-11-16T10:42:58.327Z
-published: 2025-11-16T10:42:58.327Z
+modified: 2026-08-01T13:46:34.939Z
+published: 2026-08-01T13:46:34.939Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Charisma]], +1 [[Intelligenz]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Fallensucher | [[Wahrnehmung]] |
-> Einsturzentweicher | [[Athletik]] |
+> | | |
+> |---|---|
+> | Fallensucher | [[Wahrnehmung]] |
+> | Einsturzentweicher | [[Athletik]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Verweigerer der Konkurrenz | [[Kampffertigkeiten|Kampffertigkeit]] |
-> Artefaktforschung | [[Geschichtskunde]] und beliebiges [[Wissen]]|
+> | Artefaktforschung | [[Geschichtskunde]] und beliebiges [[Wissen]]|
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Magielehren|Magielehre]]|
 > [[Meister]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|

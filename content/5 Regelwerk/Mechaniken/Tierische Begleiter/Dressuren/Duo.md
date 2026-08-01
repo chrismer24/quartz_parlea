@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Duo.md
 description: Ein [[Barde]] kann als Duett mit seinem [[Tierische Begleiter|tierischen Begleiter]] auftreten.
 created: 2025-11-30T13:56:25.388Z
-modified: 2025-12-05T22:38:19.664Z
-published: 2025-12-05T22:38:19.664Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,11 +20,11 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Charisma.md|Charisma]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Barde/Barde.md|Barde]] |
-> [[Begleitermanöver]]| Tanzablenkung, Musizieren |
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Barde/Barde.md|Barde]] |
+> | [[Begleitermanöver]]| Tanzablenkung, Musizieren |
 > Erlernen: | [[#Erlernen Tänzer|Tänzer]] |
 > Vertiefung: | [[#Vertiefung Musikant|Musikant]] |
 

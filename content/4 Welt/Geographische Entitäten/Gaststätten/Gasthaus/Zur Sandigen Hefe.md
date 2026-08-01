@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zur Sandigen Hefe.md
 created: 2025-12-07T09:41:29.062Z
-modified: 2025-12-07T09:42:35.831Z
-published: 2025-12-07T09:42:35.831Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Heimsand.md|Heimsand]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Heimsand.md|Heimsand]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

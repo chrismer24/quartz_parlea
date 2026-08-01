@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 Regelwerk/Ausrüstung/Waffen/Stoßwaffen/Speer.md
 created: 2025-11-15T23:45:28.963Z
-modified: 2025-12-05T22:41:19.591Z
-published: 2025-12-05T22:41:19.591Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Waffe
 aliases:
 tags:
@@ -39,21 +39,21 @@ banner_y: 0.128
 >
 > ## Kampfeigenschaften
 >
-> |    |
-> \---|---|
-> [[Kampffertigkeiten]]| [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Fernkampf.md|Fernkampf]] |
-> [[Initiative]] |  |
+> | | |
+> |---|---|
+> | [[Kampffertigkeiten]]| [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Fernkampf.md|Fernkampf]] |
+> | [[Initiative]] |  |
 > [[Schadenswurf|Schaden]]| |
 > [[Defensivmanöver#Blockkonstante|Blockkonstante]]| |
 > [[Waffen#Beständigkeit|Beständigkeit]]| |
-> Eigenschaften| [[5 Regelwerk/Ausrüstung/Waffen/kurz.md|kurz]],[[5 Regelwerk/Ausrüstung/Waffen/zweihändig.md|zweihändig]]|
+> | Eigenschaften| [[5 Regelwerk/Ausrüstung/Waffen/kurz.md|kurz]],[[5 Regelwerk/Ausrüstung/Waffen/zweihändig.md|zweihändig]]|
 >
 > ## Gegenstandseigenschaften
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Inventarkapazität#Inventarklassen|Inventarklasse]]||
-> Basispreis| [[Golddrachen]] |
+> | Basispreis| [[Golddrachen]] |
 > benötigtes [[Handwerke|Handwerk]]||
 > [[Ausrüstung#Starterklasse|Starterklasse]]||
-> mögliche [[Materialien]]|[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Stahl.md|Stahl]],[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Valberger Stahl.md|Valberger Stahl]]|
+> | mögliche [[Materialien]]|[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Stahl.md|Stahl]],[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Valberger Stahl.md|Valberger Stahl]]|

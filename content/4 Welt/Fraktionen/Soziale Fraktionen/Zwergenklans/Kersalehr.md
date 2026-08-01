@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kersalehr.md
 aliases: Fraktionen,
 description: Priester
 created: 2025-08-19T15:20:02.119Z
-modified: 2026-02-11T08:45:42.061Z
-published: 2026-02-11T08:45:42.061Z
+modified: 2026-08-01T13:40:23.091Z
+published: 2026-08-01T13:40:23.091Z
 notetype: Fraktion
 tags:
 factiontype: Zwergenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

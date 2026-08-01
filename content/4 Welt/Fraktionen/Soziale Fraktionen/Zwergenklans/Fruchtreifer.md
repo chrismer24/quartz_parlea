@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Fruchtreifer.md
 aliases: Fraktionen,
 created: 2026-07-25T09:09:41.932Z
-modified: 2026-07-25T13:01:30.000Z
-published: 2026-07-25T13:01:30.000Z
+modified: 2026-08-01T13:40:22.987Z
+published: 2026-08-01T13:40:22.987Z
 notetype: Fraktion
 tags:
 factiontype: Zwergenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Krieger/Ritter.md
 aliases: Pfade,
 created: 2025-06-16T09:48:51.211Z
-modified: 2025-12-02T02:36:26.838Z
-published: 2025-12-02T02:36:26.838Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Agilität]], +1 [[Stärke]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Schlachtross | [[Reiten]] |
-> Stratege | [[Kriegskunde]] |
+> | | |
+> |---|---|
+> | Schlachtross | [[Reiten]] |
+> | Stratege | [[Kriegskunde]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Waffengelehrter | [[Kampffertigkeiten|Kampffertigkeit]] |
-> hohe Abstammung | [[Gesellschaftskunde]] **und** [[Geschichtskunde]] |
+> | hohe Abstammung | [[Gesellschaftskunde]] **und** [[Geschichtskunde]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Meister]]:   |[[Magielehren|Magielehre]]|
 > [[Koryphäe]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|

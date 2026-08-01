@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Krieger/Krieger.md
 aliases: Kriegers, Kriegerin, Kriegerinnen, Waffendrill, Kriegern
 description: Meister der martialischen Künste
 created: 2025-06-06T14:59:03.583Z
-modified: 2025-11-16T12:56:00.000Z
-published: 2025-11-16T12:56:00.000Z
+modified: 2026-08-01T13:46:34.964Z
+published: 2026-08-01T13:46:34.964Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/warrior_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.25
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > bekanntes Kampfwerkzeug | [[Kampffertigkeiten|Kampffertigkeit]] |
-> kriegerische Ausstrahlung | [[Inspirieren]] oder [[Bedrohen]] |
+> | kriegerische Ausstrahlung | [[Inspirieren]] oder [[Bedrohen]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >

@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Waldläufer/Waldläufer.md
 aliases: Waldläufers, Waldläufern, Waldläuferinnen, Waldläuferin, Jagd
 description: Bewohner der wilden Natur und eng mit ihren anderen Bewohnern vertraut
 created: 2025-06-06T14:59:09.031Z
-modified: 2025-11-27T20:30:11.567Z
-published: 2025-11-27T20:30:11.567Z
+modified: 2026-08-01T13:46:34.938Z
+published: 2026-08-01T13:46:34.938Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/ranger_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.5
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
-> Jagdblick | [[Wahrnehmung]]|
-> Zuhause in der Natur | [[Überlebenstechniken]] |
+> | | |
+> |---|---|
+> | Jagdblick | [[Wahrnehmung]]|
+> | Zuhause in der Natur | [[Überlebenstechniken]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >

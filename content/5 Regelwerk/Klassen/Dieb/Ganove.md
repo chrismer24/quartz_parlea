@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Dieb/Ganove.md
 aliases: Pfade,
 created: 2025-06-16T08:54:14.053Z
-modified: 2025-11-25T19:07:37.307Z
-published: 2025-11-25T19:07:37.307Z
+modified: 2026-08-01T13:46:34.939Z
+published: 2026-08-01T13:46:34.939Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Agilität]], +1 [[Charisma]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Schutzgeldeintreibung | [[Lügen]], [[Bedrohen]] oder [[Manipulieren]] |
-> Schwächenkenner | [[Psychologie]] |
+> | | |
+> |---|---|
+> | Schutzgeldeintreibung | [[Lügen]], [[Bedrohen]] oder [[Manipulieren]] |
+> | Schwächenkenner | [[Psychologie]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > weites Netz | [[Gesellschaftskunde]] und beliebige soziale [[Fertigkeiten|Fertigkeit]]|
 > kriminelle Magie | [[Magielehren|Magielehre]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Magielehren|Magielehre]]|
 > [[Meister]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|

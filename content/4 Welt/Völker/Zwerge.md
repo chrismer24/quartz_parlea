@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Völker/Zwerge.md
 aliases: Zwerg, Zwergen
 created: 2024-08-04T13:59:01.488Z
-modified: 2025-11-03T09:04:09.592Z
-published: 2025-11-03T09:04:09.592Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: Volk
 tags:
 description:
@@ -19,14 +19,14 @@ playable: true
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: |[[Zwergisch]], [[Imperial]]  |
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: |[[Zwergisch]], [[Imperial]]  |
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -34,9 +34,9 @@ playable: true
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
+> | | |
+> |---|---|
+> | Attributsboni:  | |
 > Grundfertigkeit:   |[[Handwerke|Handwerk]] des Klans|
 
 # Zwerge

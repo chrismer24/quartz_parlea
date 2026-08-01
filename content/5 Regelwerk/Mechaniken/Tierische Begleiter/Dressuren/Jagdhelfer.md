@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Jagdhelfer.md
 description: "[[Waldläufer]] nutzt seinen [[Tierische Begleiter|tierischen Begleiter]] als Unterstützung während der Jagd"
 created: 2025-11-30T13:54:31.892Z
-modified: 2025-12-05T22:38:23.058Z
-published: 2025-12-05T22:38:23.058Z
+modified: 2026-08-01T13:40:23.143Z
+published: 2026-08-01T13:40:23.143Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,11 +20,11 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Agilität.md|Agilität]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Waldläufer/Waldläufer.md|Waldläufer]] |
-> [[Begleitermanöver]]| Aufspüren, Jagen|
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Waldläufer/Waldläufer.md|Waldläufer]] |
+> | [[Begleitermanöver]]| Aufspüren, Jagen|
 > Erlernen: | [[#Erlernen gesteigerter Ertrag|gesteigerter Ertrag]] |
 > Vertiefung: | [[#Vertiefung präzise Jagd|präzise Jagd]] |
 

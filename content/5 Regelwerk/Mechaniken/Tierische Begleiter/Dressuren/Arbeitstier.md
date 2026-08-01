@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Arbeitstier.md
 description: "[[Tierische Begleiter]] können zur Arbeit erzogen werden, um Gegenstände zu transportieren oder ziehen"
 created: 2025-11-30T13:34:54.530Z
-modified: 2025-12-05T22:38:08.001Z
-published: 2025-12-05T22:38:08.001Z
+modified: 2026-08-01T13:40:23.186Z
+published: 2026-08-01T13:40:23.186Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,11 +20,11 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| wo Zug- und Tragekraft benötigt wird |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| wo Zug- und Tragekraft benötigt wird |
 > Erlernen: | [[#Erlernen Packtier|Packtier]] |
 > Vertiefung: | [[#Vertiefung Zugtier|Zugtier]] |
 

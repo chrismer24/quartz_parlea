@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Metalle/Kupfer.md
 description: ist vom Himmel gefallen, rostet nicht, lässt Feuerblitze regnen
 created: 2025-10-23T11:23:54.951Z
-modified: 2025-11-28T17:45:19.037Z
-published: 2025-11-28T17:45:19.037Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Schmiedekunst.md|Schmiedekunst]]|
-> Preisfaktor|1.25|
+> | Preisfaktor|1.25|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|0.5|
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor|0.5|
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] |  |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

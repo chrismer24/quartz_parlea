@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Städte/Sonnwacht.md
 aliases: Siedlungen,
 created: 2025-12-05T23:17:12.777Z
-modified: 2025-12-05T23:17:13.213Z
-published: 2025-12-05T23:17:13.213Z
+modified: 2026-08-01T13:40:22.907Z
+published: 2026-08-01T13:40:22.907Z
 notetype: Siedlung
 tags:
 settlementtype: Stadt
@@ -23,33 +23,33 @@ banner_y: 0.3
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Gründung: |  |
+> |   | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Gründung:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
+> |   | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
 >
 > ###### Gesellschaft
 >
-> |    |
-> \---|---|
-> Einwohner: |  |
-> Leitung: |  |
-> Produkte: |  |
+> |   | |
+> |---|---|
+> | Einwohner:  | |
+> | Leitung:  | |
+> | Produkte:  | |
 >
 > ###### Organisationen
 >
-> Organisation  |  Leitung  |
-> \---|---|
-> Gilde 1 | Meister 1 |
+> | Organisation  |  Leitung  |
+> |---|---|
+> | Gilde 1 | Meister 1 |
 
 # Sonnwacht
 

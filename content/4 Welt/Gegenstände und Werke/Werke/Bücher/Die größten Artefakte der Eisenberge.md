@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Gegenstände und Werke/Werke/Bücher/Die größten Artefakte der Eisenberge.md
 aliases: Gegenstände,
 created: 2025-09-25T10:36:35.071Z
-modified: 2025-10-17T18:47:17.478Z
-published: 2025-10-17T18:47:17.478Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Gegenstand
 tags:
 itemtype:
@@ -21,20 +21,20 @@ banner_y: 0
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Schöpfer: |   |
-> Material: |  |
-> Ort: |  |
+> | | |
+> |---|---|
+> | Schöpfer:  | |
+> | Material:  | |
+> | Ort:  | |
 >
 > ###### Stats
 >
-> |   |
-> \---|---|
-> Gruppe | Beispiel |
-> Angriff | Beispiel |
-> Initiative | Beispiel |
-> Schaden | Beispiel |
+> | | |
+> |---|---|
+> | Gruppe | Beispiel |
+> | Angriff | Beispiel |
+> | Initiative | Beispiel |
+> | Schaden | Beispiel |
 
 # Die größten Artefakte der Eisenberge
 

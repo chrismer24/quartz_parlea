@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zur schaumigen Krone.md
 created: 2025-12-05T23:01:38.541Z
-modified: 2025-12-05T23:02:03.869Z
-published: 2025-12-05T23:02:03.869Z
+modified: 2026-08-01T13:40:22.977Z
+published: 2026-08-01T13:40:22.977Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Valberg.md|Valberg]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Valberg.md|Valberg]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

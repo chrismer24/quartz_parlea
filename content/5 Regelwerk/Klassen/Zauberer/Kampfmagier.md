@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Zauberer/Kampfmagier.md
 aliases: Pfade,
 created: 2025-06-16T10:36:40.482Z
-modified: 2025-10-26T20:47:54.689Z
-published: 2025-10-26T20:47:54.689Z
+modified: 2026-08-01T13:46:34.938Z
+published: 2026-08-01T13:46:34.938Z
 notetype: Pfad
 tags:
 description:
@@ -28,25 +28,25 @@ attribute_bonus:
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
-> [[Geselle]]:   |    |
-> [[Meister]]:   |    |
-> [[Koryphäe]]: |   |
+> | | |
+> |---|---|
+> | [[Geselle]]:    | |
+> | [[Meister]]:    | |
+> | [[Koryphäe]]:  | |
 >
 > #### [[Pfade#Spezialisierung der Klassen Klassenmechanik Klassenmechanik|Mechanik-Spezialisierung]]
 >

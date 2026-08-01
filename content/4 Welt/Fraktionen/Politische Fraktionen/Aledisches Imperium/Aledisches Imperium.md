@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Politische Fraktionen/Aledisches Imperium/Aledisches Imperium.md
 aliases: Aledischen Imperiums, aledisches Imperium, aledischen Imperiums, aledischem Imperium, Aledischem Imperium, Imperiums, Imperium
 created: 2025-08-18T22:09:54.749Z
-modified: 2025-08-18T22:10:35.138Z
-published: 2025-08-18T22:10:35.138Z
+modified: 2026-08-01T13:40:23.096Z
+published: 2026-08-01T13:40:23.096Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -20,18 +20,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

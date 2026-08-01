@@ -4,8 +4,8 @@ permalink: /4 Welt/Völker/Skjelder.md
 aliases: Völker,
 description: Bewohner des Archipels
 created: 2025-07-21T10:52:37.196Z
-modified: 2025-11-03T09:05:31.177Z
-published: 2025-11-03T09:05:31.177Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: Volk
 tags:
 associated_to: Menschen
@@ -20,14 +20,14 @@ playble: true
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: |[[Skjeldisch]], [[Imperial]]|
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: |[[Skjeldisch]], [[Imperial]]|
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -35,9 +35,9 @@ playble: true
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
+> | | |
+> |---|---|
+> | Attributsboni:  | |
 > Grundfertigkeit:   |[[Schifffahrt]]
 
 # Skjelder

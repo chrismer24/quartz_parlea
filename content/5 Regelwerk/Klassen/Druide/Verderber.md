@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Druide/Verderber.md
 aliases: Pfade,
 description: Naturmagier, die ihre Umwelt aussaugen, um sich selbst zu stärken
 created: 2025-06-16T09:32:43.306Z
-modified: 2025-11-24T15:39:33.309Z
-published: 2025-11-24T15:39:33.309Z
+modified: 2026-08-01T13:46:34.937Z
+published: 2026-08-01T13:46:34.937Z
 notetype: Pfad
 tags:
 class: Druide
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Intelligenz]], +1 [[Konstitution]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Bote des [[Irlain]] | [[Dämonologie]] und [[Weltenkunde]]|
-> Versteckte Fäule | [[Schleichen]] |
+> | | |
+> |---|---|
+> | Bote des [[Irlain]] | [[Dämonologie]] und [[Weltenkunde]]|
+> | Versteckte Fäule | [[Schleichen]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> korrodierte Magie | [[dunkle Magie]] |
-> angsteinflößende Ausstrahlung | [[Bedrohen]] |
+> | | |
+> |---|---|
+> | korrodierte Magie | [[dunkle Magie]] |
+> | angsteinflößende Ausstrahlung | [[Bedrohen]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Magielehren|Magielehre]]|
 > [[Meister]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|

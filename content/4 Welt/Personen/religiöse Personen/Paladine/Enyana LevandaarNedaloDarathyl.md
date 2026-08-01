@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/religiöse Personen/Paladine/Enyana LevandaarNedaloDarathyl.md
 aliases: Personen,
 created: 2025-12-07T00:56:53.281Z
-modified: 2026-05-05T18:12:14.000Z
-published: 2026-05-05T18:12:14.000Z
+modified: 2026-08-01T13:40:22.852Z
+published: 2026-08-01T13:40:22.852Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: | 10. Farlia, 465Ä3 |
-> gestorben: |  |
-> Titel: | [[Flammeninquisition#Flammenhüter|Flammenhüterin]], aufstrebende Flamme, Trägerin |
-> Heimat: | Gluthaus der Flammeninquisition, Hochblickquartier, [[Flusswacht]] |
-> Beschäftigung: |  [[Flammeninquisition#Flammenhüter|Flammenhüterin]] der Flammenquisition |
+> | | |
+> |---|---|
+> | geboren: | 10. Farlia, 465Ä3 |
+> | gestorben:  | |
+> | Titel: | [[Flammeninquisition#Flammenhüter|Flammenhüterin]], aufstrebende Flamme, Trägerin |
+> | Heimat: | Gluthaus der Flammeninquisition, Hochblickquartier, [[Flusswacht]] |
+> | Beschäftigung: |  [[Flammeninquisition#Flammenhüter|Flammenhüterin]] der Flammenquisition |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: | [[Dunkelelfen|Dunkelelfe]] |
-> Geschlecht: |  weiblich |
-> Größe: | 186 cm |
-> Gewicht: | 80 kg |
-> Haarfarbe : | aschgrau |
-> Augenfarbe: | rotgrau |
-> Hautfarbe: | bläulich grau|
-> besondere Merkmale | Bissnarbe auf der rechten Hand, einige Narben am Rücken und am Bauch und den Oberarmen|
+> | | |
+> |---|---|
+> | Volk: | [[Dunkelelfen|Dunkelelfe]] |
+> | Geschlecht: |  weiblich |
+> | Größe: | 186 cm |
+> | Gewicht: | 80 kg |
+> | Haarfarbe : | aschgrau |
+> | Augenfarbe: | rotgrau |
+> | Hautfarbe: | bläulich grau|
+> | besondere Merkmale | Bissnarbe auf der rechten Hand, einige Narben am Rücken und am Bauch und den Oberarmen|
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: | [[Serelin LevandaarHelaraanTindria]], [[Alyenne RaleothBedular]] |
-> Geschwister: | Nervaer |
-> Partner: |  |
-> Kinder: |  |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern: | [[Serelin LevandaarHelaraanTindria]], [[Alyenne RaleothBedular]] |
+> | Geschwister: | Nervaer |
+> | Partner:  | |
+> | Kinder:  | |
 >
 > ###### Verbindungen
 >

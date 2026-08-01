@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Salzfischgasthaus.md
 created: 2025-12-05T23:41:06.313Z
-modified: 2025-12-07T10:41:31.599Z
-published: 2025-12-07T10:41:31.599Z
+modified: 2026-08-01T13:46:35.316Z
+published: 2026-08-01T13:46:35.316Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Neusalz.md|Neusalz]] |
-> Besitzer:  | Hilda |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Neusalz.md|Neusalz]] |
+> | Besitzer:  | Hilda |
 >
 > Angebot:
 

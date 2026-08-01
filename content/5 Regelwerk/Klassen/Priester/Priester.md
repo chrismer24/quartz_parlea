@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Priester/Priester.md
 aliases: Priesterin, Priesterinnen, Messe, Priestern, Priesters
 description: magiefokussierte und charismatische Diener der [[Gottheiten]]
 created: 2025-06-06T14:59:07.177Z
-modified: 2026-04-04T10:55:25.727Z
-published: 2026-04-04T10:55:25.727Z
+modified: 2026-08-01T13:46:34.963Z
+published: 2026-08-01T13:46:34.963Z
 notetype: Klasse
 tags:
 class: Priester
@@ -25,9 +25,9 @@ banner_y: 0.08
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
-> weise Worte | [[Inspirieren]] oder beliebiges [[Wissen]] |
+> | | |
+> |---|---|
+> | weise Worte | [[Inspirieren]] oder beliebiges [[Wissen]] |
 > magisches Gebet | [[Magielehren|Magielehre]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]

@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/Skjeldisch.md
 aliases: Sprachen,
 created: 2025-06-15T21:37:08.340Z
-modified: 2025-06-15T21:37:08.662Z
-published: 2025-06-15T21:37:08.662Z
+modified: 2026-08-01T13:33:24.163Z
+published: 2026-08-01T13:33:24.163Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Skjeldisch
 

@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Dunkelelfenklans/Levandaar.md
 aliases: Fraktionen,
 description: Mut
 created: 2025-08-19T15:50:38.359Z
-modified: 2025-08-19T15:55:24.192Z
-published: 2025-08-19T15:55:24.192Z
+modified: 2026-08-01T13:40:23.095Z
+published: 2026-08-01T13:40:23.095Z
 notetype: Fraktion
 tags:
 factiontype: Dunkelelfenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

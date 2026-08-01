@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/militärische Personen/Nolan Wolfritt.md
 aliases: Personen,
 created: 2026-05-04T13:40:20.667Z
-modified: 2026-05-05T18:12:14.000Z
-published: 2026-05-05T18:12:14.000Z
+modified: 2026-08-01T13:33:24.323Z
+published: 2026-08-01T13:33:24.323Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: |  |
-> Beschäftigung: |  |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat:  | |
+> | Beschäftigung:  | |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: |  |
-> Geschlecht: |  |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : |  |
-> Augenfarbe: |  |
-> Hautfarbe: |  |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk:  | |
+> | Geschlecht:  | |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe :  | |
+> | Augenfarbe:  | |
+> | Hautfarbe:  | |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: |  |
-> Partner: |  |
-> Kinder: |  |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister:  | |
+> | Partner:  | |
+> | Kinder:  | |
 >
 > ###### Verbindungen
 >

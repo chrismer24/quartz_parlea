@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Waldläufer/Pionier.md
 aliases: Pfade,
 created: 2025-06-16T10:27:56.806Z
-modified: 2026-06-25T19:36:53.276Z
-published: 2026-06-25T19:36:53.276Z
+modified: 2026-08-01T13:46:34.939Z
+published: 2026-08-01T13:46:34.939Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus:
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> agiler Wanderer | [[Athletik]] |
+> | | |
+> |---|---|
+> | agiler Wanderer | [[Athletik]] |
 > Wegbereiter | [[Handwerke|Handwerk]] und [[Naturkunde]] |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Kenner der Magieströme | [[Magielehren|Magielehre]] |
-> stiller Späher | [[Schleichen]]|
+> | stiller Späher | [[Schleichen]]|
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |  [[Magielehren|Magielehre]]  |
 > [[Meister]]:   |  [[Kampffertigkeiten|Kampffertigkeit]]  |
 > [[Koryphäe]]: | [[Magielehren|Magielehre]]  oder [[Kampffertigkeiten|Kampffertigkeit]] |

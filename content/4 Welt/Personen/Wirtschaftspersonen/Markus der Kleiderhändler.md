@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/Wirtschaftspersonen/Markus der Kleiderhändler.md
 aliases: Personen,
 created: 2026-05-04T09:13:20.356Z
-modified: 2026-05-05T18:12:14.000Z
-published: 2026-05-05T18:12:14.000Z
+modified: 2026-08-01T13:40:22.852Z
+published: 2026-08-01T13:40:22.852Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: | [[Flusswacht]] |
-> Beschäftigung: | Kleiderhändler |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat: | [[Flusswacht]] |
+> | Beschäftigung: | Kleiderhändler |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: |  |
-> Geschlecht: |  |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : |  |
-> Augenfarbe: |  |
-> Hautfarbe: |  |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk:  | |
+> | Geschlecht:  | |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe :  | |
+> | Augenfarbe:  | |
+> | Hautfarbe:  | |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: | [[Josef der Verwalter]]  |
-> Partner: |  |
-> Kinder: |  |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister: | [[Josef der Verwalter]]  |
+> | Partner:  | |
+> | Kinder:  | |
 >
 > ###### Verbindungen
 >

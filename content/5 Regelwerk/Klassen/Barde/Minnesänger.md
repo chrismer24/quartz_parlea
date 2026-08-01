@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Barde/Minnesänger.md
 aliases: Minnesängers, Minnesängern, Minnesängerin, Minnesängerinnen
 description: Barden, für die ihre Stimme das wichtigste Werkzeug und die durch die Lande ziehen, um uralte Legenden und Mythen vorzutragen
 created: 2025-06-16T07:44:08.062Z
-modified: 2025-11-13T09:15:31.936Z
-published: 2025-11-13T09:15:31.936Z
+modified: 2026-08-01T13:46:34.940Z
+published: 2026-08-01T13:46:34.940Z
 notetype: Pfad
 tags:
 class: Barde
@@ -28,22 +28,22 @@ attribute_bonus: +1 [[Charisma]], +1 [[Intelligenz]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Melodien des Ansporns | [[Inspirieren]] |
-> dramatische Epen | [[Geschichtskunde]] und beliebiges [[Wissen]]|
+> | | |
+> |---|---|
+> | Melodien des Ansporns | [[Inspirieren]] |
+> | dramatische Epen | [[Geschichtskunde]] und beliebiges [[Wissen]]|
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > praktisches Heldenlied | [[Kampffertigkeiten|Kampffertigkeit]] |
 > berührende Stimme | beliebige soziale [[Fertigkeiten|Fertigkeit]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Magielehren|Magielehre]]|
 > [[Meister]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|

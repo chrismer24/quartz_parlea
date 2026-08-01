@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Fraktionen/Politische Fraktionen/Liga der Tausend Gipfel/Silberreich/Silberreich.md
 created: 2025-08-18T22:23:10.724Z
-modified: 2026-03-14T11:13:45.000Z
-published: 2026-03-14T11:13:45.000Z
+modified: 2026-08-01T13:40:23.096Z
+published: 2026-08-01T13:40:23.096Z
 notetype: Fraktion
 aliases:
 tags:
@@ -20,18 +20,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >
@@ -55,8 +55,8 @@ kurze Zusammenfassung
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Holzformer.md|Holzformer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Hopfenmeister.md|Hopfenmeister]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kersalehr.md|Kersalehr]]: Priester
-- [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kupferformer.md|Kupferformer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kornbrecher.md|Kornbrecher]]: -
+- [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Kupferformer.md|Kupferformer]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Malzkenner.md|Malzkenner]]: -
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Mutterblicker.md|Mutterblicker]]: Astronomen, Forschende
 - [[4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Schachtgräber.md|Schachtgräber]]: -

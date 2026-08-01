@@ -4,8 +4,8 @@ permalink: /4 Welt/Völker/Seeelfen.md
 aliases: Seeelfe, Serathin, Serathins
 description: Das älteste Elfenvolk welches in Korallstädten auf dem Ozean der Herkunft lebt
 created: 2024-08-04T13:45:21.104Z
-modified: 2025-06-15T21:27:23.626Z
-published: 2025-06-15T21:27:23.626Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: Volk
 tags:
 banner: zzz_Assets/Images/Banners/church_banner.jpg
@@ -19,14 +19,14 @@ playable: false
 >
 > ![[zzz_Assets/Images/Characters/Volk/Seeelfen/sea_elf_warrior.jpg|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  Serathin (elf. "erstes Volk"), Hochelfen |
-> Ursprung: | unbekannt, lt. anderen Elfen Schöpfung von [[Frela]] |
-> Sprachen: | [[Alt-Elfisch]] |
-> Lebenserwartung: | ca. 100 (Züchter) - mehrere tsd. Jahre (Herrscher u. Priester) |
-> durchschnittliche Größe: | 1,3 (Züchter) - 2 Meter (Herrscher u. Priester) |
-> Hautfarbe: | blässlich türkis |
+> | | |
+> |---|---|
+> | andere Namen: |  Serathin (elf. "erstes Volk"), Hochelfen |
+> | Ursprung: | unbekannt, lt. anderen Elfen Schöpfung von [[Frela]] |
+> | Sprachen: | [[Alt-Elfisch]] |
+> | Lebenserwartung: | ca. 100 (Züchter) - mehrere tsd. Jahre (Herrscher u. Priester) |
+> | durchschnittliche Größe: | 1,3 (Züchter) - 2 Meter (Herrscher u. Priester) |
+> | Hautfarbe: | blässlich türkis |
 >
 > ###### Untervölker
 >

@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Wein und Raus.md
 created: 2025-12-05T23:29:51.886Z
-modified: 2025-12-07T02:52:04.874Z
-published: 2025-12-07T02:52:04.874Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[Azurhaven]], nähe Hafen |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[Azurhaven]], nähe Hafen |
+> | Besitzer:  |  |
 >
 > Angebot:
 

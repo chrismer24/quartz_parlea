@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/Tibenisch.md
 aliases: Tibenebenensprache, Sprache des Tiben, Sprache der Tibenebene, Tibenischem, Tibenischen
 created: 2025-06-11T11:52:04.270Z
-modified: 2025-06-11T11:53:34.531Z
-published: 2025-06-11T11:53:34.531Z
+modified: 2026-08-01T13:33:24.149Z
+published: 2026-08-01T13:33:24.149Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Tibenisch
 

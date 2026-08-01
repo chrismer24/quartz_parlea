@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zum Fetten Wiesel.md
 created: 2026-07-31T14:38:01.673Z
-modified: 2026-07-31T14:38:55.528Z
-published: 2026-07-31T14:38:55.528Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | Werkspitze, [[Flusswacht]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | Werkspitze, [[Flusswacht]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

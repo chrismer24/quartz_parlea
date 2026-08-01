@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/Nord.md
 aliases: Nordisch, nordisch, Nordischem, Nordischen
 created: 2025-06-11T10:55:04.799Z
-modified: 2025-06-11T15:18:45.894Z
-published: 2025-06-11T15:18:45.894Z
+modified: 2026-08-01T13:33:24.164Z
+published: 2026-08-01T13:33:24.164Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Nord
 

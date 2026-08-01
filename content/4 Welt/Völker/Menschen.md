@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Völker/Menschen.md
 aliases: Völker,
 created: 2024-08-04T14:02:27.158Z
-modified: 2025-11-03T09:06:31.420Z
-published: 2025-11-03T09:06:31.420Z
+modified: 2026-08-01T13:49:12.138Z
+published: 2026-08-01T13:49:12.138Z
 notetype: Volk
 tags:
 description:
@@ -19,14 +19,14 @@ playable: true
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: |[[Imperial]], eventuelle Sprache eines Untervolks|
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: |[[Imperial]], eventuelle Sprache eines Untervolks|
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -34,10 +34,10 @@ playable: true
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
-> Grundfertigkeit:   |[[Handwerke|Handwerk]] oder [[Wissen]]|
+> | | |
+> |---|---|
+> | Attributsboni:  | |
+> | Grundfertigkeit:   |[[Handwerke|Handwerk]] oder [[Wissen]]|
 
 # Menschen
 
@@ -73,8 +73,8 @@ kurze Zusammenfassung
 - [[4 Welt/Völker/Aurischen.md|Aurischen]]: -
 - [[4 Welt/Völker/Nordvolk.md|Nordvolk]]: -
 - [[4 Welt/Völker/Rhexa.md|Rhexa]]: menschliche Wüstenbewohner
-- [[4 Welt/Völker/Skjelder.md|Skjelder]]: Bewohner des Archipels
 - [[4 Welt/Völker/Verler.md|Verler]]: -
+- [[4 Welt/Völker/Skjelder.md|Skjelder]]: Bewohner des Archipels
 
 ## Spieleigenschaften
 

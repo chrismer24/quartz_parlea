@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/Wirtschaftspersonen/Josef der Verwalter.md
 aliases: Personen,
 created: 2026-05-04T09:12:03.229Z
-modified: 2026-05-05T18:12:16.000Z
-published: 2026-05-05T18:12:16.000Z
+modified: 2026-08-01T13:40:22.852Z
+published: 2026-08-01T13:40:22.852Z
 notetype: Person
 tags:
 alive: ja
@@ -31,36 +31,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: | [[Flusswacht]] |
-> Beschäftigung: | Verwalter des [[Grundgut Donnerbürst]] |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat: | [[Flusswacht]] |
+> | Beschäftigung: | Verwalter des [[Grundgut Donnerbürst]] |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: | Mensch |
-> Geschlecht: | männlich |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : |  |
-> Augenfarbe: |  |
-> Hautfarbe: |  |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk: | Mensch |
+> | Geschlecht: | männlich |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe :  | |
+> | Augenfarbe:  | |
+> | Hautfarbe:  | |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: | [[Markus der Kleiderhändler]]  |
-> Partner: |  |
-> Kinder: |  |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister: | [[Markus der Kleiderhändler]]  |
+> | Partner:  | |
+> | Kinder:  | |
 >
 > ###### Verbindungen
 >

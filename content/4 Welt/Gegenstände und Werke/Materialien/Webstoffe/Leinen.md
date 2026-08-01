@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Webstoffe/Leinen.md
 created: 2025-10-23T11:15:34.943Z
-modified: 2025-11-28T18:15:06.617Z
-published: 2025-11-28T18:15:06.617Z
+modified: 2026-08-01T13:49:12.146Z
+published: 2026-08-01T13:49:12.146Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
-> benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Stoffkunst.md|Stoffkunst]]|
-> Preisfaktor|0.25|
+> | | |
+> |---|---|
+> | Vorkommen||
+> | benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Stoffkunst.md|Stoffkunst]]|
+> | Preisfaktor|0.25|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|0.25|
-> [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] |  |
-> Waffeneffekt||
-> Rüstungseffekt||
-> [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor|0.25|
+> | [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] |  |
+> | Waffeneffekt||
+> | Rüstungseffekt||
+> | [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

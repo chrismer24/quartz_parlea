@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Buchwälzer.md
 aliases: Fraktionen,
 created: 2025-09-01T19:06:06.449Z
-modified: 2025-09-01T19:07:22.994Z
-published: 2025-09-01T19:07:22.994Z
+modified: 2026-08-01T13:40:23.067Z
+published: 2026-08-01T13:40:23.067Z
 notetype: Fraktion
 tags:
 factiontype: Zwergenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

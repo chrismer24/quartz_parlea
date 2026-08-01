@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Religiöse Fraktionen/Paladinorden/Flammeninquisition.md
 aliases: Fraktionen,
 created: 2026-05-04T14:05:39.432Z
-modified: 2026-05-05T18:12:14.000Z
-published: 2026-05-05T18:12:14.000Z
+modified: 2026-08-01T13:40:23.096Z
+published: 2026-08-01T13:40:23.096Z
 notetype: Fraktion
 tags:
 factiontype: Paladinorden
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: | [[2 Ära der Mythen|Ära der Mythen]] |
-> Leitspruch: | Farles Segen verbrennt alle Sünden. |
+> | | |
+> |---|---|
+> | Gründung: | [[2 Ära der Mythen|Ära der Mythen]] |
+> | Leitspruch: | Farles Segen verbrennt alle Sünden. |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Paladinorden |
-> Leitung | Beispiel |
-> Zentrum | [[Balramor]] |
+> | | |
+> |---|---|
+> | Organisationsform | Paladinorden |
+> | Leitung | Beispiel |
+> | Zentrum | [[Balramor]] |
 >
 > ###### Historische Ereignisse
 >

@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Aledische Familien/Greifsblut.md
 aliases: Fraktionen,
 created: 2025-11-01T23:01:01.421Z
-modified: 2026-01-19T18:29:06.280Z
-published: 2026-01-19T18:29:06.280Z
+modified: 2026-08-01T13:46:35.057Z
+published: 2026-08-01T13:46:35.057Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

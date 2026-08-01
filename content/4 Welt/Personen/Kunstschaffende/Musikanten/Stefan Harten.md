@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/Kunstschaffende/Musikanten/Stefan Harten.md
 aliases: Personen,
 created: 2025-12-07T00:31:14.294Z
-modified: 2025-12-07T00:33:33.867Z
-published: 2025-12-07T00:33:33.867Z
+modified: 2026-08-01T13:33:24.324Z
+published: 2026-08-01T13:33:24.324Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: |  |
-> Beschäftigung: |  |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat:  | |
+> | Beschäftigung:  | |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: |  |
-> Geschlecht: |  |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : |  |
-> Augenfarbe: |  |
-> Hautfarbe: |  |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk:  | |
+> | Geschlecht:  | |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe :  | |
+> | Augenfarbe:  | |
+> | Hautfarbe:  | |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: |  |
-> Partner: |  |
-> Kinder: |  |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister:  | |
+> | Partner:  | |
+> | Kinder:  | |
 >
 > ###### Verbindungen
 >

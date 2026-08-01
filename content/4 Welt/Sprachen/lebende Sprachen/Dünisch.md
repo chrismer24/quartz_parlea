@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/Dünisch.md
 aliases: Dünischem, Dünischen, dünisch
 created: 2025-06-11T10:53:03.616Z
-modified: 2025-06-11T15:18:41.078Z
-published: 2025-06-11T15:18:41.078Z
+modified: 2026-08-01T13:33:24.170Z
+published: 2026-08-01T13:33:24.170Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Dünisch
 

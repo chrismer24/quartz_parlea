@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Fähigkeiten.md
 aliases: Pfade,
 created: 2025-06-11T05:41:13.464Z
-modified: 2025-06-16T12:02:43.775Z
-published: 2025-06-16T12:02:43.775Z
+modified: 2026-08-01T13:46:34.937Z
+published: 2026-08-01T13:46:34.937Z
 notetype: Overview
 tags:
 description:
@@ -22,22 +22,22 @@ attribute_bonus:
 >
 > ###### [[Attribute|Attributssteigerung(en)]]
 >
-> |    |
-> \---|---|
-> Attribut 1: |  |
-> Attribut 2: |  |
+> | | |
+> |---|---|
+> | Attribut 1:  | |
+> | Attribut 2:  | |
 >
 > ###### Talente
 >
-> Lehrling:   |    |
-> Geselle:   |    |
-> Meister :   |    |
-> Koryphäe:   |    |
+> | Lehrling:    | |
+> | Geselle:    | |
+> | Meister :    | |
+> | Koryphäe:    | |
 >
 > ###### Waffen/Magie
 >
-> Geselle:   |    |
-> Meister :   |    |
+> | Geselle:    | |
+> | Meister :    | |
 >
 > ###### Fähigkeiten
 >

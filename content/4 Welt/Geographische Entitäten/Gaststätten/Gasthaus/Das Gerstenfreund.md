@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Das Gerstenfreund.md
 created: 2025-12-07T01:49:06.127Z
-modified: 2025-12-07T09:36:43.459Z
-published: 2025-12-07T09:36:43.459Z
+modified: 2026-08-01T13:46:35.316Z
+published: 2026-08-01T13:46:35.316Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[Tibenbruck]], Süden |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[Tibenbruck]], Süden |
+> | Besitzer:  |  |
 >
 > Angebot:
 

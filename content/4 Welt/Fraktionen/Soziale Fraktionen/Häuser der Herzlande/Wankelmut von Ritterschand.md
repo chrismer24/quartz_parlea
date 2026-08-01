@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Häuser der Herzlande/Wankelmut von Ritterschand.md
 aliases: Fraktionen,
 created: 2025-11-01T23:09:22.657Z
-modified: 2026-05-03T12:41:19.000Z
-published: 2026-05-03T12:41:19.000Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,19 +21,19 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
 > Klassifikation | [[Häuser der Herzlande#Rittershaus|Rittershaus]] |
-> Leitung | Beispiel |
-> Zentrum |  |
+> | Leitung | Beispiel |
+> | Zentrum  | |
 >
 > ###### Historische Ereignisse
 >

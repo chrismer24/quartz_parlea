@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/alte Sprache.md
 aliases: alten Sprache
 created: 2025-06-11T11:55:25.502Z
-modified: 2025-12-20T00:21:24.610Z
-published: 2025-12-20T00:21:24.610Z
+modified: 2026-08-01T13:46:35.005Z
+published: 2026-08-01T13:46:35.005Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # alte Sprache
 

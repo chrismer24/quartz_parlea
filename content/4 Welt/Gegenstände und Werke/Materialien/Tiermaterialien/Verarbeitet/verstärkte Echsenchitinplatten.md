@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Verarbeitet/verstärkte Echsenchitinplatten.md
 created: 2025-11-28T18:10:26.832Z
-modified: 2025-11-28T18:11:21.005Z
-published: 2025-11-28T18:11:21.005Z
+modified: 2026-08-01T13:40:22.822Z
+published: 2026-08-01T13:40:22.822Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> |   | |
+> |---|---|
+> | Vorkommen||
 > benötigtes [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Flechtkunst.md|Flechtkunst]]|
-> Preisfaktor|1.5|
+> | Preisfaktor|1.5|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor||
+> |   | |
+> |---|---|
+> | Beständigkeitsfaktor||
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[5 Regelwerk/Mechaniken/Schadensarten/Giftschaden.md|Gift]] |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

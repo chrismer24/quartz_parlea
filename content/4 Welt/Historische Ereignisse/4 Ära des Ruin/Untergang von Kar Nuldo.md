@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Historische Ereignisse/4 Ära des Ruin/Untergang von Kar Nuldo.md
 aliases: Ereignisse,
 created: 2026-02-09T23:32:51.275Z
-modified: 2026-02-12T18:13:45.000Z
-published: 2026-02-12T18:13:45.000Z
+modified: 2026-08-01T13:40:22.850Z
+published: 2026-08-01T13:40:22.850Z
 notetype: Ereignis
 tags:
 eventtype:
@@ -20,23 +20,23 @@ banner_y: 0.55
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Datum: | [[4 Ära des Ruin|Ära des Ruin]] |
-> Ort: | [[Kar Nuldo]] |
-> Auswirkung: | Tod aller Bewohner der Stadt|
+> | | |
+> |---|---|
+> | Datum: | [[4 Ära des Ruin|Ära des Ruin]] |
+> | Ort: | [[Kar Nuldo]] |
+> | Auswirkung: | Tod aller Bewohner der Stadt|
 >
 > ###### Involvierte Parteien
 >
-> |   |
-> \---|---|
-> Beispiel | Beispiel |
+> | | |
+> |---|---|
+> | Beispiel | Beispiel |
 >
 > ###### Involvierte Personen
 >
-> |   |
-> \---|---|
-> Beispiel | Beispiel |
+> | | |
+> |---|---|
+> | Beispiel | Beispiel |
 
 # Untergang von Kar Nuldo
 

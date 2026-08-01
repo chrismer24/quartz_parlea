@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Die Letzte Zukehr.md
 created: 2025-12-07T09:45:10.894Z
-modified: 2025-12-07T09:45:59.838Z
-published: 2025-12-07T09:45:59.838Z
+modified: 2026-08-01T13:46:35.316Z
+published: 2026-08-01T13:46:35.316Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Schwenting.md|Schwenting]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Dörfer/Schwenting.md|Schwenting]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

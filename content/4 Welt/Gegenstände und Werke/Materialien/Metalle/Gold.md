@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Metalle/Gold.md
 created: 2025-10-23T11:22:15.558Z
-modified: 2025-11-28T17:42:31.402Z
-published: 2025-11-28T17:42:31.402Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Goldschmiedekunst.md|Goldschmiedekunst]]|
-> Preisfaktor||
+> | Preisfaktor||
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor||
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor||
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] |  |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

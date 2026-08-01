@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Völker/Aleder.md
 aliases: Völker,
 created: 2025-06-06T14:54:51.834Z
-modified: 2025-11-03T09:08:07.793Z
-published: 2025-11-03T09:08:07.793Z
+modified: 2026-08-01T13:46:34.996Z
+published: 2026-08-01T13:46:34.996Z
 notetype: Volk
 tags:
 description:
@@ -20,14 +20,14 @@ playble: true
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: |[[Imperial]]|
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: |[[Imperial]]|
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -35,10 +35,10 @@ playble: true
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
-> Grundfertigkeit:   |[[Feilschen]]|
+> | | |
+> |---|---|
+> | Attributsboni:  | |
+> | Grundfertigkeit:   |[[Feilschen]]|
 
 # Aleder
 

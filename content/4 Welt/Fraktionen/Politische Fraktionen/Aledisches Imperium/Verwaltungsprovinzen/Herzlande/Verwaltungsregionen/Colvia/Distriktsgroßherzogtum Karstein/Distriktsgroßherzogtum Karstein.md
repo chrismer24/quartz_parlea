@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Politische Fraktionen/Aledisches Imperium/Verwaltungsprovinzen/Herzlande/Verwaltungsregionen/Colvia/Distriktsgroßherzogtum Karstein/Distriktsgroßherzogtum Karstein.md
 aliases: Fraktionen,
 created: 2025-08-22T19:56:52.729Z
-modified: 2025-08-25T21:11:51.838Z
-published: 2025-08-25T21:11:51.838Z
+modified: 2026-08-01T13:40:23.096Z
+published: 2026-08-01T13:40:23.096Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

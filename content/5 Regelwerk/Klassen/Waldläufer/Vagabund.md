@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Waldläufer/Vagabund.md
 aliases: Pfade,
 created: 2025-06-16T10:28:25.914Z
-modified: 2026-01-04T21:23:09.000Z
-published: 2026-01-04T21:23:09.000Z
+modified: 2026-08-01T13:46:34.938Z
+published: 2026-08-01T13:46:34.938Z
 notetype: Pfad
 tags:
 description:
@@ -28,22 +28,22 @@ attribute_bonus:
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> stiller Streicher | [[Schleichen]] |
-> Wilde Reisen | [[Athletik]] und [[Naturkunde]]|
+> | | |
+> |---|---|
+> | stiller Streicher | [[Schleichen]] |
+> | Wilde Reisen | [[Athletik]] und [[Naturkunde]]|
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > schützender Pfadfinder | [[Kampffertigkeiten|Kampffertigkeit]]  |
-> Sanitäter | [[Heilkunst]] |
+> | Sanitäter | [[Heilkunst]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |   [[Kampffertigkeiten|Kampffertigkeit]]  |
 > [[Meister]]:   |  [[Magielehren|Magielehre]]  |
 > [[Koryphäe]]: | [[Kampffertigkeiten|Kampffertigkeit]]  oder [[Magielehren|Magielehre]] |

@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthof/Unterm Greifenfuß.md
 created: 2025-12-05T23:37:54.007Z
-modified: 2025-12-05T23:38:21.860Z
-published: 2025-12-05T23:38:21.860Z
+modified: 2026-08-01T13:40:22.977Z
+published: 2026-08-01T13:40:22.977Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: |  |
-> Besitzer:  | Zwerg |
+> | | |
+> |---|---|
+> | Standort: |  |
+> | Besitzer:  | Zwerg |
 >
 > Angebot:
 

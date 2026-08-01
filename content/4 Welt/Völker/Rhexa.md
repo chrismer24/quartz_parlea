@@ -4,8 +4,8 @@ permalink: /4 Welt/Völker/Rhexa.md
 aliases: Völker,
 description: menschliche Wüstenbewohner
 created: 2025-07-21T10:47:04.680Z
-modified: 2025-11-03T09:05:26.215Z
-published: 2025-11-03T09:05:26.215Z
+modified: 2026-08-01T13:46:34.995Z
+published: 2026-08-01T13:46:34.995Z
 notetype: Volk
 tags:
 associated_to: Menschen
@@ -20,14 +20,14 @@ playble: true
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: | [[Imperial]], [[Dünisch]]\(v.a. Nomaden) |
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: | [[Imperial]], [[Dünisch]]\(v.a. Nomaden) |
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -35,10 +35,10 @@ playble: true
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
-> Grundfertigkeit:   | [[Überlebenstechniken]]|
+> | | |
+> |---|---|
+> | Attributsboni:  | |
+> | Grundfertigkeit:   | [[Überlebenstechniken]]|
 
 # Rhexa
 

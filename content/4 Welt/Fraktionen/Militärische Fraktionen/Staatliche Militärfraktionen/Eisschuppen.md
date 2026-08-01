@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Militärische Fraktionen/Staatliche Militärfraktionen/Eisschuppen.md
 aliases: Fraktionen,
 created: 2025-09-25T09:50:30.639Z
-modified: 2025-09-25T19:44:33.947Z
-published: 2025-09-25T19:44:33.947Z
+modified: 2026-08-01T13:40:23.096Z
+published: 2026-08-01T13:40:23.096Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

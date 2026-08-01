@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/Selisch.md
 aliases: Sprache der Sel, Selischem, Selischen, Alt-Seelisch
 created: 2025-06-11T11:35:06.687Z
-modified: 2025-06-11T11:35:37.954Z
-published: 2025-06-11T11:35:37.954Z
+modified: 2026-08-01T13:33:24.149Z
+published: 2026-08-01T13:33:24.149Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Selisch
 

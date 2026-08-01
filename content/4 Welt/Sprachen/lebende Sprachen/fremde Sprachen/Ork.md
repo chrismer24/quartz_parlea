@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/fremde Sprachen/Ork.md
 aliases: Orkisch, Orkischem, Orkischen
 created: 2025-06-11T11:31:12.071Z
-modified: 2025-12-20T00:22:52.342Z
-published: 2025-12-20T00:22:52.342Z
+modified: 2026-08-01T13:33:24.170Z
+published: 2026-08-01T13:33:24.170Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Ork
 

@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Kuscheltier.md
 description: Der tierische Begleiter wird besonders schmusig und stärkt dadurch Regeneration und Moral
 created: 2025-11-30T13:46:28.709Z
-modified: 2025-12-05T22:38:31.719Z
-published: 2025-12-05T22:38:31.719Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Charisma.md|Charisma]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| wenn der Begleiter süß auftritt |
-> Erlernen: | [[#Erlernen regenerative Freude|regenerative Freude]]  |
-> Vertiefung: | [[#Vertiefung verbesserte Moral|verbesserte Moral]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Charisma.md|Charisma]]  |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| wenn der Begleiter süß auftritt |
+> | Erlernen: | [[#Erlernen regenerative Freude|regenerative Freude]]  |
+> | Vertiefung: | [[#Vertiefung verbesserte Moral|verbesserte Moral]] |
 
 # Kuscheltier
 

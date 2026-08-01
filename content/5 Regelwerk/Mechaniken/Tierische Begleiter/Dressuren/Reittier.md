@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Reittier.md
 description: Der Begleiter kann mit dieser Fähigkeit zum [[Reiten]] genutzt werden.
 created: 2025-11-30T13:08:44.337Z
-modified: 2025-12-05T22:38:38.171Z
-published: 2025-12-05T22:38:38.171Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Agilität.md|Agilität]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| Stabilität beim [[Reiten]] |
-> Erlernen: | [[#Erlernen Reiten|Reiten]] |
-> Vertiefung: | [[#Vertiefung Reitkampf|Berittener Kampf]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Agilität.md|Agilität]]  |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| Stabilität beim [[Reiten]] |
+> | Erlernen: | [[#Erlernen Reiten|Reiten]] |
+> | Vertiefung: | [[#Vertiefung Reitkampf|Berittener Kampf]] |
 
 # Reittier
 

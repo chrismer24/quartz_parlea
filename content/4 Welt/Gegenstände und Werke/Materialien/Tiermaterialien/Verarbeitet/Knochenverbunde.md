@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Verarbeitet/Knochenverbunde.md
 created: 2025-10-23T11:17:17.843Z
-modified: 2025-11-28T18:03:55.643Z
-published: 2025-11-28T18:03:55.643Z
+modified: 2026-08-01T13:40:22.822Z
+published: 2026-08-01T13:40:22.822Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> |   | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Flechtkunst.md|Flechtkunst]]|
-> Preisfaktor|1.5|
+> | Preisfaktor|1.5|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|0.5|
+> |   | |
+> |---|---|
+> | Beständigkeitsfaktor|0.5|
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[5 Regelwerk/Mechaniken/Schadensarten/Elektroschaden.md|elektrisch]] |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

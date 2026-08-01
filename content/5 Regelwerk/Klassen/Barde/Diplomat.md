@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Barde/Diplomat.md
 aliases: Diplomatin, Diplomaten, Diplomatinnen
 description: Spielleute, welche an Adelshöfen ihre Werke vortragen und im Zuge dessen Botschaften übermitteln
 created: 2025-06-16T08:52:35.334Z
-modified: 2025-11-13T09:14:59.276Z
-published: 2025-11-13T09:14:59.276Z
+modified: 2026-08-01T13:46:34.963Z
+published: 2026-08-01T13:46:34.963Z
 notetype: Pfad
 tags:
 class: Barde
@@ -28,22 +28,22 @@ attribute_bonus: +2 [[Charisma]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Silberzunge | [[Manipulieren]] |
-> Häufiger Hofgast | [[Gesellschaftskunde]] und beliebiges [[Wissen]]|
+> | | |
+> |---|---|
+> | Silberzunge | [[Manipulieren]] |
+> | Häufiger Hofgast | [[Gesellschaftskunde]] und beliebiges [[Wissen]]|
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Spionage | [[Schleichen]] |
+> | | |
+> |---|---|
+> | Spionage | [[Schleichen]] |
 > Bezaubernde Wortschmiede | [[Magielehren|Magielehre]] |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > [[Geselle]]:   |[[Kampffertigkeiten|Kampffertigkeit]]|
 > [[Meister]]:   |[[Magielehren|Magielehre]]|
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|

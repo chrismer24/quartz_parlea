@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 Regelwerk/Ausrüstung/Ausstattung/Rüstung/mittlere Rüstung/mittlere Basisrüstung.md
 created: 2025-11-28T18:18:51.224Z
-modified: 2025-12-05T22:43:50.020Z
-published: 2025-12-05T22:43:50.020Z
+modified: 2026-08-01T13:40:23.187Z
+published: 2026-08-01T13:40:23.187Z
 notetype: Ausstattung
 aliases:
 tags:
@@ -38,8 +38,8 @@ banner_y: 0.048
 >
 > ## Kampfeigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Ausstattung#Ausstattungsgruppen|Ausstattungsgruppe]]|  |
 > [[Ausstattung#Robustheit|Gesamtrobustheit]] |  |
 > [[Ausstattung#Reduktionssätze|Reduktionssätze]]||
@@ -47,8 +47,8 @@ banner_y: 0.048
 >
 > ### [[Ausstattung#Robustheit|Robustheit]] der [[Ausstattung#Ausstattungsteile|Ausstattungsteile]]
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Ausstattung#Oberkörperteil|Oberkörperteil]]||
 > [[Ausstattung#Beinkleider|Beinkleid]]||
 > [[Ausstattung#Kopfbedeckungen|Kopfbedeckung]]||
@@ -57,12 +57,12 @@ banner_y: 0.048
 >
 > ## Gegenstandseigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Inventarkapazität#Inventarklassen|Inventarklasse]]||
-> Basispreis| [[Golddrachen]] |
+> | Basispreis| [[Golddrachen]] |
 > benötigtes [[Handwerke|Handwerk]]||
 > [[Ausrüstung#Starterklasse|Starterklasse]]||
-> mögliche [[Materialien]]| [[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Stahl.md|Stahl]],[[4 Welt/Gegenstände und Werke/Materialien/Sonstige/Jade.md|Jade]]|
+> | mögliche [[Materialien]]| [[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Stahl.md|Stahl]],[[4 Welt/Gegenstände und Werke/Materialien/Sonstige/Jade.md|Jade]]|
 
 ## Ausstattungsteile

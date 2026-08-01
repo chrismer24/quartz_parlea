@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Sprachen/lebende Sprachen/Elfisch.md
 aliases: Elfischen, Neu-Elfisch, neuen Elfisch, elfisch
 created: 2024-08-04T13:51:27.717Z
-modified: 2025-06-11T15:18:42.661Z
-published: 2025-06-11T15:18:42.661Z
+modified: 2026-08-01T13:33:24.164Z
+published: 2026-08-01T13:33:24.164Z
 notetype: Sprache
 tags:
 description:
@@ -22,13 +22,13 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Elfisch
 

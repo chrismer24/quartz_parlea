@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Fraktionen/Künstlerfraktionen/Bardengruppen/Tibenebener Buam.md
 aliases: Fraktionen,
 created: 2025-10-12T17:40:03.903Z
-modified: 2025-10-17T18:46:48.000Z
-published: 2025-10-17T18:46:48.000Z
+modified: 2026-08-01T13:40:23.098Z
+published: 2026-08-01T13:40:23.098Z
 notetype: Fraktion
 tags:
 factiontype:
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

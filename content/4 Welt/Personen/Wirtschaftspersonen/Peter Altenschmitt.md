@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Personen/Wirtschaftspersonen/Peter Altenschmitt.md
 aliases: Personen,
 created: 2026-05-04T13:41:36.782Z
-modified: 2026-05-05T18:12:16.000Z
-published: 2026-05-05T18:12:16.000Z
+modified: 2026-08-01T13:40:22.850Z
+published: 2026-08-01T13:40:22.850Z
 notetype: Person
 tags:
 alive: ja
@@ -30,36 +30,36 @@ banner_y: 0.148
 >
 > ###### Biographie
 >
-> |    |
-> \---|---|
-> geboren: |  |
-> gestorben: |  |
-> Titel: |  |
-> Heimat: | Peters Schmiede, Werkspitze, [[Flusswacht]] |
-> Beschäftigung: | Schmied für Werkzeug und Jagdwaffen |
+> | | |
+> |---|---|
+> | geboren:  | |
+> | gestorben:  | |
+> | Titel:  | |
+> | Heimat: | Peters Schmiede, Werkspitze, [[Flusswacht]] |
+> | Beschäftigung: | Schmied für Werkzeug und Jagdwaffen |
 >
 > ###### Merkmale
 >
-> |    |
-> \---|---|
-> Volk: | [[Aleder]] |
-> Geschlecht: | männlich |
-> Größe: |  |
-> Gewicht: |  |
-> Haarfarbe : | braun |
-> Augenfarbe: | braun |
-> Hautfarbe: | vom Russ reicht gräulich |
-> besondere Merkmale |  |
+> | | |
+> |---|---|
+> | Volk: | [[Aleder]] |
+> | Geschlecht: | männlich |
+> | Größe:  | |
+> | Gewicht:  | |
+> | Haarfarbe : | braun |
+> | Augenfarbe: | braun |
+> | Hautfarbe: | vom Russ reicht gräulich |
+> | besondere Merkmale  | |
 >
 > ###### Familie
 >
-> |    |
-> \---|---|
-> Familie: |  |
-> Eltern: |  |
-> Geschwister: |  |
-> Partner: |  |
-> Kinder: | Tochter Mia |
+> | | |
+> |---|---|
+> | Familie:  | |
+> | Eltern:  | |
+> | Geschwister:  | |
+> | Partner:  | |
+> | Kinder: | Tochter Mia |
 >
 > ###### Verbindungen
 >

@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Historische Ereignisse/4 Ära des Ruin/Rebellion des zweiten Eisens.md
 aliases: Ereignisse,
 created: 2026-02-09T23:29:47.759Z
-modified: 2026-02-12T18:14:06.000Z
-published: 2026-02-12T18:14:06.000Z
+modified: 2026-08-01T13:40:22.850Z
+published: 2026-08-01T13:40:22.850Z
 notetype: Ereignis
 tags:
 eventtype: Krieg
@@ -20,23 +20,23 @@ banner_y: 0.55
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Datum: | [[4 Ära des Ruin|Ära des Ruin]] |
-> Ort: | westliche [[Eisenberge]]|
-> Auswirkung: | [[Untergang von Kar Nuldo]] |
+> | | |
+> |---|---|
+> | Datum: | [[4 Ära des Ruin|Ära des Ruin]] |
+> | Ort: | westliche [[Eisenberge]]|
+> | Auswirkung: | [[Untergang von Kar Nuldo]] |
 >
 > ###### Involvierte Parteien
 >
-> |   |
-> \---|---|
-> Beispiel | Beispiel |
+> | | |
+> |---|---|
+> | Beispiel | Beispiel |
 >
 > ###### Involvierte Personen
 >
-> |   |
-> \---|---|
-> Beispiel | Beispiel |
+> | | |
+> |---|---|
+> | Beispiel | Beispiel |
 
 # Rebellion des zweiten Eisens
 

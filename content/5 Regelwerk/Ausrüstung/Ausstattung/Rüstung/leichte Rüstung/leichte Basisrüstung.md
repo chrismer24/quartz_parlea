@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 Regelwerk/Ausrüstung/Ausstattung/Rüstung/leichte Rüstung/leichte Basisrüstung.md
 created: 2025-11-28T18:18:11.393Z
-modified: 2025-12-05T22:43:44.082Z
-published: 2025-12-05T22:43:44.082Z
+modified: 2026-08-01T13:40:23.187Z
+published: 2026-08-01T13:40:23.187Z
 notetype: Ausstattung
 aliases:
 tags:
@@ -47,8 +47,8 @@ banner_y: 0.048
 >
 > ## Kampfeigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Ausstattung#Ausstattungsgruppen|Ausstattungsgruppe]]| leicht |
 > [[Ausstattung#Robustheit|Gesamtrobustheit]] | 6 |
 > [[Ausstattung#Reduktionssätze|Reduktionssätze]]|50, 25|
@@ -56,8 +56,8 @@ banner_y: 0.048
 >
 > ### [[Ausstattung#Robustheit|Robustheit]] der [[Ausstattung#Ausstattungsteile|Ausstattungsteile]]
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Ausstattung#Oberkörperteil|Oberkörperteil]]|2|
 > [[Ausstattung#Beinkleider|Beinkleid]]|1|
 > [[Ausstattung#Kopfbedeckungen|Kopfbedeckung]]|1|
@@ -66,12 +66,12 @@ banner_y: 0.048
 >
 > ## Gegenstandseigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Inventarkapazität#Inventarklassen|Inventarklasse]]|3-5|
-> Basispreis|220 [[Golddrachen]] |
+> | Basispreis|220 [[Golddrachen]] |
 > benötigtes [[Handwerke|Handwerk]]||
 > [[Ausrüstung#Starterklasse|Starterklasse]]|3|
-> mögliche [[Materialien]]| [[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Schafsfell.md|Schafsfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Hirschfell.md|Hirschfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Löwenfell.md|Löwenfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Bärenfell.md|Bärenfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Wolfsfell.md|Wolfsfell]],[[4 Welt/Gegenstände und Werke/Materialien/Webstoffe/Wolle.md|Wolle]]|
+> | mögliche [[Materialien]]| [[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Schafsfell.md|Schafsfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Hirschfell.md|Hirschfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Löwenfell.md|Löwenfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Bärenfell.md|Bärenfell]],[[4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Wolfsfell.md|Wolfsfell]],[[4 Welt/Gegenstände und Werke/Materialien/Webstoffe/Wolle.md|Wolle]]|
 
 ## Ausstattungsteile

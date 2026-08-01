@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Orte/Grundgut Donnerbürst.md
 aliases: Orte,
 created: 2025-12-06T11:31:09.118Z
-modified: 2026-07-31T15:18:55.576Z
-published: 2026-07-31T15:18:55.576Z
+modified: 2026-08-01T13:33:24.323Z
+published: 2026-08-01T13:33:24.323Z
 notetype: Ort
 tags:
 placetype:
@@ -20,20 +20,20 @@ banner_y: 0.35
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |  |
-> Typ: |  |
-> Bewohner: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Typ:  | |
+> | Bewohner:  | |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: |  |
-> Teilregion: |  |
-> verbundene Straßen: |  |
-> nahegelegene Siedlungen: |  |
+> | | |
+> |---|---|
+> | Region:  | |
+> | Teilregion:  | |
+> | verbundene Straßen:  | |
+> | nahegelegene Siedlungen:  | |
 
 # Grundgut Donnerbürst
 

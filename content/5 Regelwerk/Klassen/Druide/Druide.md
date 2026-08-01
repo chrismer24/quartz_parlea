@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Druide/Druide.md
 aliases: Druiden, Druidin, Druidinnen, Wildmeditation
 description: Naturmagier, die magische Strömungen in der Natur nutzen
 created: 2025-06-06T14:58:59.765Z
-modified: 2025-11-03T08:58:40.771Z
-published: 2025-11-03T08:58:40.771Z
+modified: 2026-08-01T13:46:34.938Z
+published: 2026-08-01T13:46:34.938Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/druid_banner.jpg
@@ -24,10 +24,10 @@ banner_y: 0.17
 >
 > #### [[Talente]]
 >
-> |    |
-> \---|---|
+> | | |
+> |---|---|
 > Naturmagie | [[Magielehren|Magielehre]] |
-> Wilde Heimat | [[Überlebenstechniken]] |
+> | Wilde Heimat | [[Überlebenstechniken]] |
 >
 > [[Magielehren|Magielehre]], [[Überlebenstechniken]]
 >

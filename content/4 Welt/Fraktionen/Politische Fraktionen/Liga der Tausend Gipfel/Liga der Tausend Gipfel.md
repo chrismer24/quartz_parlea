@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Fraktionen/Politische Fraktionen/Liga der Tausend Gipfel/Liga der Tausend Gipfel.md
 created: 2025-08-18T22:23:05.090Z
-modified: 2025-08-18T22:24:30.057Z
-published: 2025-08-18T22:24:30.057Z
+modified: 2026-08-01T13:40:23.096Z
+published: 2026-08-01T13:40:23.096Z
 notetype: Fraktion
 aliases:
 tags:
@@ -20,18 +20,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung: |  |
+> | Leitspruch: |  |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

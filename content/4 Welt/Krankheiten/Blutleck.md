@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Krankheiten/Blutleck.md
 aliases: Blutfälnis, Scharlachfluss
 created: 2026-05-13T09:37:25.100Z
-modified: 2026-05-14T08:16:15.000Z
-published: 2026-05-14T08:16:15.000Z
+modified: 2026-08-01T13:49:12.139Z
+published: 2026-08-01T13:49:12.139Z
 notetype: disease
 description:
 disease_level: 6
@@ -23,11 +23,11 @@ banner_y: 0.2
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[5 Regelwerk/Sonstiges/Krankheiten#Die Krankheitsstufe|Krankheitsstufe]] | 6  |
-> [[5 Regelwerk/Sonstiges/Krankheiten#Symtome und die Symptomstufe|Symptomdauer]] | 1 Tag |
-> [[5 Regelwerk/Sonstiges/Krankheiten#Abwehrschwelle|Abwehrschwelle]] | 30 |
+> | | |
+> |---|---|
+> | [[5 Regelwerk/Sonstiges/Krankheiten#Die Krankheitsstufe|Krankheitsstufe]] | 6  |
+> | [[5 Regelwerk/Sonstiges/Krankheiten#Symtome und die Symptomstufe|Symptomdauer]] | 1 Tag |
+> | [[5 Regelwerk/Sonstiges/Krankheiten#Abwehrschwelle|Abwehrschwelle]] | 30 |
 >
 > ###### bekannte Heilmittel
 

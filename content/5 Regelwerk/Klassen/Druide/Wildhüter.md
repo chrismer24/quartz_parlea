@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Klassen/Druide/Wildhüter.md
 aliases: Pfade,
 created: 2025-06-16T09:30:57.941Z
-modified: 2025-10-26T20:59:10.575Z
-published: 2025-10-26T20:59:10.575Z
+modified: 2026-08-01T13:46:34.937Z
+published: 2026-08-01T13:46:34.937Z
 notetype: Pfad
 tags:
 description:
@@ -28,24 +28,24 @@ attribute_bonus: +1 [[Charisma]], +1 [[Intelligenz]]
 >
 > #### [[Lehrling]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > #### [[Geselle]]
 >
-> |    |
-> \---|---|
-> Talentname | Fertigkeit |
-> Talentname | Fertigkeit |
+> | | |
+> |---|---|
+> | Talentname | Fertigkeit |
+> | Talentname | Fertigkeit |
 >
 > ## [[Kampffertigkeiten|Kampf]]/[[Magielehren|Magie]]
 >
-> |    |
-> \---|---|
-> [[Geselle]]:   |    |
-> [[Meister]]:   |    |
+> | | |
+> |---|---|
+> | [[Geselle]]:    | |
+> | [[Meister]]:    | |
 > [[Koryphäe]]:   |[[Magielehren|Magielehre]]|
 >
 > #### [[Pfade#Spezialisierung der Klassen Klassenmechanik Klassenmechanik|Mechanik-Spezialisierung]]

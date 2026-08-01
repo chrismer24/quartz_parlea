@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Völker/Ar-Selan.md
 created: 2024-08-04T13:59:01.488Z
-modified: 2026-01-03T19:53:08.000Z
-published: 2026-01-03T19:53:08.000Z
+modified: 2026-08-01T13:46:34.996Z
+published: 2026-08-01T13:46:34.996Z
 ---
 
 > [!infobox]+
@@ -12,14 +12,14 @@ published: 2026-01-03T19:53:08.000Z
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: |   |
-> Ursprung: |  |
-> Sprachen: |[[Sumpfzung]], [[Imperial]]  |
-> Lebenserwartung: |  |
-> durchschnittliche Größe: |  |
-> Hautfarbe: |  |
+> | | |
+> |---|---|
+> | andere Namen:  | |
+> | Ursprung:  | |
+> | Sprachen: |[[Sumpfzung]], [[Imperial]]  |
+> | Lebenserwartung:  | |
+> | durchschnittliche Größe:  | |
+> | Hautfarbe:  | |
 >
 > ###### Untervölker
 >
@@ -27,10 +27,10 @@ published: 2026-01-03T19:53:08.000Z
 >
 > ###### Spielmechanik
 >
-> |    |
-> \---|---|
-> Attributsboni: |  |
-> Grundfertigkeit:   |  +1 [[Schwimmen]], +1 [[Überlebenstechniken]]  |
+> | | |
+> |---|---|
+> | Attributsboni:  | |
+> | Grundfertigkeit:   |  +1 [[Schwimmen]], +1 [[Überlebenstechniken]]  |
 
 # Ar-Selan
 

@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Metalle/Steineisen.md
 created: 2025-10-23T11:25:44.702Z
-modified: 2025-11-28T17:49:12.092Z
-published: 2025-11-28T17:49:12.092Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Schmiedekunst.md|Schmiedekunst]]|
-> Preisfaktor|4|
+> | Preisfaktor|4|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|4|
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor|4|
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[Elektroschaden|elektrisch]], [[Giftschaden|Gift]], [[Dunkler Schaden|dunkel]] |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]|[[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Magielehren/Wandlungsmagie.md|Wandlungsmagie]]|

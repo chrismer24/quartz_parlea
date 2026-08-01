@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Kampfgehorsam.md
 description: Dem [[Tierische Begleiter|tierischen Begleiter]] können im Kampf als [[Zusatzmanöver]] bestimmte Befehle erteilt werden.
 created: 2025-11-30T13:25:54.769Z
-modified: 2025-12-05T22:38:25.197Z
-published: 2025-12-05T22:38:25.197Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,11 +20,11 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]  |
-> Zugehörigkeit: | Standard |
-> [[Begleitermanöver]]| Befehle im Kampf |
+> | Zugehörigkeit: | Standard |
+> | [[Begleitermanöver]]| Befehle im Kampf |
 > Erlernen: | [[#Erlernen Fasskommando|Fasskommando]] |
 > Vertiefung: | [[#Vertiefung Schutzbefehl|Schutzbefehl]] |
 

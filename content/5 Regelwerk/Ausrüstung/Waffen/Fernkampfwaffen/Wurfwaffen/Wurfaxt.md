@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 Regelwerk/Ausrüstung/Waffen/Fernkampfwaffen/Wurfwaffen/Wurfaxt.md
 created: 2025-10-15T22:09:41.638Z
-modified: 2025-12-05T22:40:16.296Z
-published: 2025-12-05T22:40:16.296Z
+modified: 2026-08-01T13:40:23.186Z
+published: 2026-08-01T13:40:23.186Z
 notetype: Waffe
 aliases:
 tags:
@@ -38,21 +38,21 @@ banner_y: 0.128
 >
 > ## Kampfeigenschaften
 >
-> |    |
-> \---|---|
-> [[Kampffertigkeiten]]| [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Fernkampf.md|Fernkampf]] |
-> [[Initiative]] |  |
+> |   | |
+> |---|---|
+> | [[Kampffertigkeiten]]| [[5 Regelwerk/Charaktere/Fertigkeiten/komplexe Fertigkeiten/Kampffertigkeiten/Fernkampf.md|Fernkampf]] |
+> | [[Initiative]] |  |
 > [[Schadenswurf|Schaden]]| |
 > [[Defensivmanöver#Blockkonstante|Blockkonstante]]| |
 > [[Waffen#Beständigkeit|Beständigkeit]]| |
-> Eigenschaften| [[5 Regelwerk/Ausrüstung/Waffen/kurz.md|kurz]]|
+> | Eigenschaften| [[5 Regelwerk/Ausrüstung/Waffen/kurz.md|kurz]]|
 >
 > ## Gegenstandseigenschaften
 >
-> |    |
-> \---|---|
+> |   | |
+> |---|---|
 > [[Inventarkapazität#Inventarklassen|Inventarklasse]]||
-> Basispreis| [[Golddrachen]] |
+> | Basispreis| [[Golddrachen]] |
 > benötigtes [[Handwerke|Handwerk]]||
 > [[Ausrüstung#Starterklasse|Starterklasse]]||
-> mögliche [[Materialien]]|[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Stahl.md|Stahl]],[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Valberger Stahl.md|Valberger Stahl]]|
+> | mögliche [[Materialien]]|[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Stahl.md|Stahl]],[[4 Welt/Gegenstände und Werke/Materialien/Metalle/Legierungen/Valberger Stahl.md|Valberger Stahl]]|

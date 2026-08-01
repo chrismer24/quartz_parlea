@@ -4,8 +4,8 @@ permalink: /4 Welt/Lebewesen/Kreaturen/Heilige Wesen/Greifenwesen/Talgreif.md
 aliases: Talgreifs
 description: Ein in den Tälern der [[Herzlande]] heimisches [[Greifenwesen]], welches über Kopf, Flügel und Krallen eines [[Falke|Falken]] verfügt und zeitgleich den Hinterleib eines [[Berglöwe|Berglöwen]] aufweist.
 created: 2025-12-04T15:13:38.644Z
-modified: 2025-12-04T20:12:14.901Z
-published: 2025-12-04T20:12:14.901Z
+modified: 2026-08-01T13:40:22.850Z
+published: 2026-08-01T13:40:22.850Z
 notetype: Creature
 tags:
 class: Wesen
@@ -29,22 +29,22 @@ banner_y: 0.25
 >
 > # Spieleigenschaften
 >
-> |  |
-> \--- | --- |
-> Kreaturenart |  Wesen |
-> [[Kreaturenstand]] | [[epische Kreaturen|episch]] |
-> [[Tierische Angriffe#Angriffwert|Angriffswert]]| 25 |
+> | | |
+> | --- | --- |
+> | Kreaturenart |  Wesen |
+> | [[Kreaturenstand]] | [[epische Kreaturen|episch]] |
+> | [[Tierische Angriffe#Angriffwert|Angriffswert]]| 25 |
 >
 > ## [[Attribute]]
 >
-> |  |
-> \--- | --- |
-> [[Stärke]] | 26|
-> [[Agilität]]|12|
-> [[Konstitution]] | 26|
-> [[Intelligenz]]|20|
-> [[Charisma]] | 18|
-> [[Glück]]|15|
+> | | |
+> | --- | --- |
+> | [[Stärke]] | 26|
+> | [[Agilität]]|12|
+> | [[Konstitution]] | 26|
+> | [[Intelligenz]]|20|
+> | [[Charisma]] | 18|
+> | [[Glück]]|15|
 >
 > Merkmale:
 > Lebensraum: Ebenen und Täler in den östlichen [[Herzlande|Herzlanden]]
@@ -52,14 +52,14 @@ banner_y: 0.25
 >
 > # [[#Entwicklung]]
 >
-> |  |
-> \--- | --- |
-> Lebenserwartung | 250-500, max. 1500 Jahre |
-> [[Altersstufe#Nestling|Nestling]]  |  bis 4 Wochen  |
-> [[Altersstufe#Kleintier|Kleintier]] | bis 3 Monate|  |
-> [[Altersstufe#Jungtier|Jungtier]] |  bis 4 Jahre |
-> [[Altersstufe#ausgewachsene Kreatur|ausgewachsen]] |  bis 150 Jahre  |
-> [[Altersstufe#Alttier|Alttier]] | ab 150 Jahren |
+> | | |
+> | --- | --- |
+> | Lebenserwartung | 250-500, max. 1500 Jahre |
+> | [[Altersstufe#Nestling|Nestling]]  |  bis 4 Wochen  |
+> | [[Altersstufe#Kleintier|Kleintier]] | bis 3 Monate|  |
+> | [[Altersstufe#Jungtier|Jungtier]] |  bis 4 Jahre |
+> | [[Altersstufe#ausgewachsene Kreatur|ausgewachsen]] |  bis 150 Jahre  |
+> | [[Altersstufe#Alttier|Alttier]] | ab 150 Jahren |
 
 # Talgreif
 

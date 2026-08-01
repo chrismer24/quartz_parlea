@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Geographische Entitäten/Siedlungen/Städte/Kar Nuldo.md
 aliases: Siedlungen,
 created: 2026-02-09T18:47:46.737Z
-modified: 2026-02-12T18:13:41.000Z
-published: 2026-02-12T18:13:41.000Z
+modified: 2026-08-01T13:40:22.918Z
+published: 2026-08-01T13:40:22.918Z
 notetype: Siedlung
 tags:
 settlementtype: Stadt
@@ -23,33 +23,33 @@ banner_y: 0.3
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Namen: | verfluchte Stadt, Kar Kulir  |
-> Typ: | Stadt |
+> |   | |
+> |---|---|
+> | andere Namen: | verfluchte Stadt, Kar Kulir  |
+> | Typ: | Stadt |
 > Gründung: | [[3 Ära der Helden|Ära der Helden]] |
 >
 > ###### Geographie
 >
-> |    |
-> \---|---|
-> Region: | [[Eisenreich]] |
-> Teilregion: | [[Grüntal]] |
-> verbundene Straßen: | keine mehr |
+> |   | |
+> |---|---|
+> | Region: | [[Eisenreich]] |
+> | Teilregion: | [[Grüntal]] |
+> | verbundene Straßen: | keine mehr |
 >
 > ###### Gesellschaft
 >
-> |    |
-> \---|---|
-> Einwohner: | einst 4.000 |
-> Leitung: | Rat der Altfelsen |
-> Produkte: | Holz, Möbel, Eisen, Granit |
+> |   | |
+> |---|---|
+> | Einwohner: | einst 4.000 |
+> | Leitung: | Rat der Altfelsen |
+> | Produkte: | Holz, Möbel, Eisen, Granit |
 >
 > ###### Organisationen
 >
-> Organisation  |  Leitung  |
-> \---|---|
-> Gilde 1 | Meister 1 |
+> | Organisation  |  Leitung  |
+> |---|---|
+> | Gilde 1 | Meister 1 |
 
 # Kar Nuldo
 

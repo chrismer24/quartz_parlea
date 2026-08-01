@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zum 'trunknen Seepferd.md
 created: 2025-12-05T23:31:33.050Z
-modified: 2025-12-07T10:41:36.984Z
-published: 2025-12-07T10:41:36.984Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[Azurhaven]], Adelsbezirk |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[Azurhaven]], Adelsbezirk |
+> | Besitzer:  |  |
 >
 > Angebot:
 

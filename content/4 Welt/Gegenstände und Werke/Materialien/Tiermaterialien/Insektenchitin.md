@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Tiermaterialien/Insektenchitin.md
 created: 2025-10-23T11:16:03.251Z
-modified: 2025-11-28T18:13:26.928Z
-published: 2025-11-28T18:13:26.928Z
+modified: 2026-08-01T13:40:22.811Z
+published: 2026-08-01T13:40:22.811Z
 notetype: Material
 aliases:
 tags:
@@ -30,18 +30,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> |   | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Flechtkunst.md|Flechtkunst]]|
-> Preisfaktor|2.5|
+> | Preisfaktor|2.5|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor||
+> |   | |
+> |---|---|
+> | Beständigkeitsfaktor||
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] |  |
-> Waffeneffekt||
-> Rüstungseffekt||
+> | Waffeneffekt||
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]||

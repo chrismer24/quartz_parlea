@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Dunkelelfenklans/Uveyal.md
 aliases: Fraktionen,
 description: Demut
 created: 2025-08-19T15:51:51.550Z
-modified: 2025-08-19T15:55:50.721Z
-published: 2025-08-19T15:55:50.721Z
+modified: 2026-08-01T13:40:23.092Z
+published: 2026-08-01T13:40:23.092Z
 notetype: Fraktion
 tags:
 factiontype: Dunkelelfenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> |   | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> |   | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

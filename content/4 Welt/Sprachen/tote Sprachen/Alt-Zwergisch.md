@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Sprachen/tote Sprachen/Alt-Zwergisch.md
 created: 2024-08-04T20:59:24.067Z
-modified: 2026-02-09T19:01:38.699Z
-published: 2026-02-09T19:01:38.699Z
+modified: 2026-08-01T13:33:24.163Z
+published: 2026-08-01T13:33:24.163Z
 ---
 
 > [!infobox]+
@@ -12,13 +12,13 @@ published: 2026-02-09T19:01:38.699Z
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> andere Bezeichnungen: |   |
-> lebend: |  |
-> Nutzer: |  |
-> Schrift: |  |
-> verwandte Sprachen: |  |
+> | | |
+> |---|---|
+> | andere Bezeichnungen:  | |
+> | lebend:  | |
+> | Nutzer:  | |
+> | Schrift:  | |
+> | verwandte Sprachen:  | |
 
 # Alt-Zwergisch
 

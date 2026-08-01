@@ -4,8 +4,8 @@ permalink: /4 Welt/Fraktionen/Soziale Fraktionen/Zwergenklans/Schädelbrecher.md
 aliases: Fraktionen,
 description: Krieger
 created: 2025-08-19T15:29:02.285Z
-modified: 2026-05-13T10:51:59.867Z
-published: 2026-05-13T10:51:59.867Z
+modified: 2026-08-01T13:40:22.994Z
+published: 2026-08-01T13:40:22.994Z
 notetype: Fraktion
 tags:
 factiontype: Zwergenklan
@@ -21,18 +21,18 @@ banner_y: 0.45
 >
 > ![[zzz_Assets/Images/Characters/Fraktionen/Schadelbrecher.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Gründung: |  |
-> Leitspruch: |  |
+> | | |
+> |---|---|
+> | Gründung:  | |
+> | Leitspruch:  | |
 >
 > ###### Organisation
 >
-> |   |
-> \---|---|
-> Organisationsform | Beispiel |
-> Leitung | Beispiel |
-> Zentrum | Beispiel |
+> | | |
+> |---|---|
+> | Organisationsform | Beispiel |
+> | Leitung | Beispiel |
+> | Zentrum | Beispiel |
 >
 > ###### Historische Ereignisse
 >

@@ -2,8 +2,8 @@
 publish: true
 permalink: /4 Welt/Geographische Entitäten/Gaststätten/Gasthaus/Zum Betrunkenen Weisen.md
 created: 2025-12-05T23:15:54.905Z
-modified: 2025-12-07T10:41:38.667Z
-published: 2025-12-07T10:41:38.667Z
+modified: 2026-08-01T13:46:35.315Z
+published: 2026-08-01T13:46:35.315Z
 notetype: Inn
 aliases:
 tags:
@@ -20,10 +20,10 @@ banner_y: 0.736
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Dag'Rol.md|Dag'Rol]] |
-> Besitzer:  |  |
+> | | |
+> |---|---|
+> | Standort: | [[4 Welt/Geographische Entitäten/Siedlungen/Städte/Dag'Rol.md|Dag'Rol]] |
+> | Besitzer:  |  |
 >
 > Angebot:
 

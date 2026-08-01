@@ -3,8 +3,8 @@ publish: true
 permalink: /4 Welt/Gegenstände und Werke/Materialien/Metalle/Himmelseisen.md
 description: ist vom Himmel gefallen, rostet nicht, lässt Feuerblitze regnen
 created: 2025-10-23T11:31:22.872Z
-modified: 2025-11-28T17:44:31.933Z
-published: 2025-11-28T17:44:31.933Z
+modified: 2026-08-01T13:46:35.157Z
+published: 2026-08-01T13:46:35.157Z
 notetype: Material
 aliases:
 tags:
@@ -31,18 +31,18 @@ banner_y: 0.24
 >
 > ## Verfügbarkeit
 >
-> |    |
-> \---|---|
-> Vorkommen||
+> | | |
+> |---|---|
+> | Vorkommen||
 > benötigtes  [[Handwerke|Handwerk]]|[[5 Regelwerk/Charaktere/Fertigkeiten/gewöhnliche Fertigkeiten/Handwerke/Schmiedekunst.md|Schmiedekunst]]|
-> Preisfaktor|7|
+> | Preisfaktor|7|
 >
 > ## Materialeigenschaften
 >
-> |    |
-> \---|---|
-> Beständigkeitsfaktor|8|
+> | | |
+> |---|---|
+> | Beständigkeitsfaktor|8|
 > [[Materialien#Abwehreigenschaften|Abwehreigenschaften]] | [[Elektroschaden|elektrisch]], [[Dunkler Schaden|dunkel]], [[Feuerschaden|Feuer]] |
-> Waffeneffekt|W8 [[Feuerschaden]] und W8 [[Elektroschaden]]|
-> Rüstungseffekt||
+> | Waffeneffekt|W8 [[Feuerschaden]] und W8 [[Elektroschaden]]|
+> | Rüstungseffekt||
 > [[Leitgegenstände#verbundene Magielehren|verbundene Magielehre]]|Elementarmagie|

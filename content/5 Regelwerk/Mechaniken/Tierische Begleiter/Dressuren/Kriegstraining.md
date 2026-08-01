@@ -3,8 +3,8 @@ publish: true
 permalink: /5 Regelwerk/Mechaniken/Tierische Begleiter/Dressuren/Kriegstraining.md
 description: Ein [[Krieger]] schult seinen Begleiter im Kampf und stärkt so dessen Attacken.
 created: 2025-12-01T20:49:07.916Z
-modified: 2025-12-05T22:38:28.685Z
-published: 2025-12-05T22:38:28.685Z
+modified: 2026-08-01T13:40:23.142Z
+published: 2026-08-01T13:40:23.142Z
 notetype: CompanionAbility
 aliases:
 tags:
@@ -20,13 +20,13 @@ banner_y: 0.22
 >
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 >
-> |    |
-> \---|---|
-> [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]  |
-> Zugehörigkeit: | [[5 Regelwerk/Klassen/Krieger/Krieger.md|Krieger]] |
-> [[Begleitermanöver]]| für Brutalität des Begleiters  |
-> Erlernen: | [[#Erlernen Brutalität|Brutalität]] |
-> Vertiefung: | [[#Vertiefung Zielgenau|Zielgenau]] |
+> | | |
+> |---|---|
+> | [[Tierische Begleiter#Zugewiesene Attribute|Zugewiesenes Attribut]]: | [[5 Regelwerk/Charaktere/Attribute/Stärke.md|Stärke]]  |
+> | Zugehörigkeit: | [[5 Regelwerk/Klassen/Krieger/Krieger.md|Krieger]] |
+> | [[Begleitermanöver]]| für Brutalität des Begleiters  |
+> | Erlernen: | [[#Erlernen Brutalität|Brutalität]] |
+> | Vertiefung: | [[#Vertiefung Zielgenau|Zielgenau]] |
 
 # Kriegstraining
 
