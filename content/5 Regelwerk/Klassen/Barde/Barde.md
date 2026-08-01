@@ -4,8 +4,8 @@ permalink: /5 Regelwerk/Klassen/Barde/Barde.md
 aliases: Barden, Auftritt, Auftritts, Auftritten
 description: Spielleute, welche mit ihren Auftritten begeisern
 created: 2025-06-06T11:52:59.157Z
-modified: 2026-08-01T13:46:34.963Z
-published: 2026-08-01T13:46:34.963Z
+modified: 2026-08-01T14:31:02.433Z
+published: 2026-08-01T14:31:02.433Z
 notetype: Klasse
 tags:
 banner: zzz_Assets/Images/Banners/bard_banner.jpg
