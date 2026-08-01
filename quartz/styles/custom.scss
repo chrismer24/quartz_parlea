@@ -2,3 +2,65 @@
 @use "./syncer";
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+@use "./syncer";
+
+// put your custom CSS here!
+/* ==========================================================================
+   ITS THEME INFOBOXES & STATBLOCKS FOR QUARTZ
+   ========================================================================== */
+
+/* Floating Right Infobox */
+.callout[data-callout*="infobox"],
+.callout[data-callout*="statblock"] {
+  float: right;
+  width: 320px;
+  margin: 0 0 1.25rem 1.5rem;
+  clear: right;
+  border-radius: 8px;
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+
+  /* Ensure content inside stays neat */
+  table {
+    margin: 0;
+    width: 100%;
+  }
+
+  h1, h2, h3, h4 {
+    margin-top: 0;
+    text-align: center;
+  }
+}
+
+/* Floating Left Infobox */
+.callout[data-callout*="infobox-left"] {
+  float: left;
+  width: 320px;
+  margin: 0 1.5rem 1.25rem 0;
+  clear: left;
+  border-radius: 8px;
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+}
+
+/* Clearfix for articles so text doesn't overflow floating boxes */
+.article {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+/* Mobile Responsiveness: Stack boxes on small screens */
+@media (max-width: 800px) {
+  .callout[data-callout*="infobox"],
+  .callout[data-callout*="infobox-left"],
+  .callout[data-callout*="statblock"] {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
